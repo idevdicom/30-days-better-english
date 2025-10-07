@@ -1,0 +1,78 @@
+---
+alwaysApply: true
+---
+
+# 30 Days Better English - Project Rules
+
+## Project Overview
+This is a 30-day English speaking practice program focused on B1 level common phrases and sentences. The goal is to help users improve their spoken English through daily practice with progressively increasing content.
+
+## Content Structure
+
+### Daily Progression
+- Day 1: 15 sentences
+- Day 2: 16 sentences  
+- Day 3: 17 sentences
+- ...and so on
+- Day 30: 44 sentences
+
+Each day adds ONE more sentence than the previous day.
+
+### File Format for Each Day
+
+Each day's file (day_1.md to day_30.md) should follow this exact format:
+
+```markdown
+# Day X - Y câu
+
+**1. [English sentence]**
+/[IPA pronunciation]/
+> [Detailed explanation in English about when and how to use this sentence]
+
+**2. [English sentence]**
+/[IPA pronunciation]/
+> [Detailed explanation in English about when and how to use this sentence]
+
+...
+```
+
+### Content Requirements
+
+1. **Sentences**: 
+   - Must be at B1 English level
+   - Focus on common, practical phrases used in daily conversation
+   - Should cover various topics: greetings, introductions, work, hobbies, social situations, etc.
+   - Each sentence should be bold formatted
+
+2. **Pronunciation**:
+   - Provide IPA (International Phonetic Alphabet) pronunciation
+   - Place on a separate line immediately after the sentence
+   - Format: /phonetic transcription/
+
+3. **Explanation**:
+   - Must be in English only (no Vietnamese translation)
+   - Place inside a quote block (markdown > syntax)
+   - Explain WHEN to use the sentence (context, situation)
+   - Explain WHY it's useful (purpose, tone, formality level)
+   - Keep explanations clear and practical
+
+4. **Spacing**:
+   - Add a blank line between each sentence group
+   - This improves readability and makes practice easier
+
+### Quality Guidelines
+
+- Sentences should form natural conversations when possible
+- Avoid repetitive structures across different days
+- Progress from basic to more complex structures as days advance
+- Include a mix of questions, statements, and responses
+- Focus on real-world applicability
+
+### File Naming
+- Use lowercase with underscores: day_1.md, day_2.md, etc.
+- Store all files in the /plans directory
+
+## Do NOT Create
+- No README.md files
+- No documentation files unless explicitly requested
+- No summary or overview files
