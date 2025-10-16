@@ -1,88 +1,93 @@
 # Day 13 - 27 câu
 
 ## Video
-> place video here
+> https://www.youtube.com/watch?v=UlYBHzDJUTQ
 
 ## Practice sentences
 
-**1. Have you been to the new restaurant downtown?**
-> Use present perfect to ask about experiences. This is perfect for getting recommendations about new places.
+**1. What's your favorite way to relax after a stressful day?**
+> Use this question to learn about someone's stress management and relaxation techniques. It's a great way to understand their self-care practices and coping strategies.
 
-**2. Yes, I went there last week. It was fantastic!**
-> Share past experience with enthusiasm. "Fantastic" strongly expresses how much you enjoyed it.
+**2. I like to take a long walk in the park and listen to calming music.**
+> This response shares a specific relaxation method that combines physical activity and music. It shows they value both exercise and auditory relaxation.
 
-**3. What kind of food do they serve?**
-> Ask about cuisine type. This helps determine if it matches your preferences.
+**3. That sounds very peaceful! Nature and music can be so therapeutic.**
+> This positive response shows appreciation for their relaxation method and acknowledges the therapeutic benefits of both nature and music.
 
-**4. They specialize in Asian fusion cuisine.**
-> Describe the restaurant's focus. "Specialize in" means their main expertise or offering.
+**4. I think so too! It helps me clear my mind and process the day's events.**
+> This agreement confirms their appreciation and explains the mental benefits they experience from their relaxation routine.
 
-**5. That sounds interesting. What did you order?**
-> Express interest and ask for specific details about their experience.
+**5. Do you have a favorite type of music for relaxation?**
+> This follow-up question explores their musical preferences for relaxation and can reveal their taste in calming music.
 
-**6. I had the Thai basil chicken. It was delicious!**
-> Share what you ate using past simple. Giving dish names helps others decide what to try.
+**6. I really enjoy instrumental music, especially piano and classical pieces.**
+> This response shares specific musical preferences for relaxation, showing they appreciate instrumental and classical music for calming purposes.
 
-**7. How were the portions? Were they generous?**
-> Ask about quantity. "Generous" means large or plentiful, important for value assessment.
+**7. That's wonderful! Instrumental music is perfect for relaxation and focus.**
+> This positive response validates their musical choice and emphasizes the benefits of instrumental music for relaxation and concentration.
 
-**8. Yes, the portions were quite large. I couldn't finish mine.**
-> Provide helpful information about serving sizes. This sets expectations for future diners.
+**8. It really is! I find that lyrics can sometimes be distracting when I'm trying to unwind.**
+> This response explains their reasoning for preferring instrumental music and shows they understand their own relaxation needs.
 
-**9. What about the prices? Is it expensive?**
-> Inquire about cost. "What about" is a natural way to shift to a new aspect of the topic.
+**9. That makes perfect sense! Sometimes you just need pure, calming sounds.**
+> This response validates their preference and shows understanding of the need for simple, soothing auditory experiences.
 
-**10. It's a bit pricey, but worth it for the quality.**
-> Give balanced feedback. "Worth it" means the value justifies the cost despite being expensive.
+**10. Exactly! What about you? How do you like to relax after work?**
+> This agreement confirms their perspective and asks a reciprocal question to keep the conversation balanced and engaging.
 
-**11. Do I need to make a reservation?**
-> Ask about booking requirements. This practical question helps with planning.
+**11. I usually read a good book or watch a light comedy show.**
+> This response shares their own relaxation preferences, showing they value both reading and entertainment for stress relief.
 
-**12. I'd recommend it, especially for dinner. They get very busy.**
-> Give advice based on experience. Explaining "why" makes the recommendation more helpful.
+**12. That sounds lovely! Reading and comedy are both great ways to escape and unwind.**
+> This positive response shows appreciation for their relaxation methods and acknowledges the benefits of both reading and entertainment.
 
-**13. Thanks for the tip. I'll call them later.**
-> Acknowledge helpful advice. "Tip" here means useful piece of information or advice.
+**13. I think so too! They help me forget about work stress and just enjoy the moment.**
+> This agreement shows they value the escapism and present-moment enjoyment that their relaxation activities provide.
 
-**14. The atmosphere is really nice too. Very modern and cozy.**
-> Provide additional positive details. Describing ambiance helps paint a complete picture.
+**14. Do you have a favorite genre of books for relaxation?**
+> This question explores their reading preferences and can reveal their taste in literature for stress relief.
 
-**15. Is it a good place for a date?**
-> Ask about suitability for specific occasions. This helps determine if it matches your needs.
+**15. I love mystery novels and light romance stories.**
+> This response shares specific genre preferences for relaxation reading, showing they enjoy engaging but not overly complex stories.
 
-**16. Absolutely! It's romantic with dim lighting and soft music.**
-> Confirm enthusiastically and explain why. Descriptive details support your recommendation.
+**16. That's a great combination! Mystery keeps you engaged, and romance is heartwarming.**
+> This positive response shows appreciation for their reading choices and explains the appeal of both genres.
 
-**17. Perfect! I'm planning to take my partner there this weekend.**
-> Share your plan using present continuous for definite future arrangements.
+**17. I think so too! They provide the perfect balance of excitement and comfort.**
+> This agreement confirms their appreciation and explains how their reading choices provide both stimulation and emotional comfort.
 
-**18. That's a great idea! I'm sure they'll love it.**
-> Support their plan with confidence. This encouragement is warm and positive.
+**18. What about TV shows? Do you prefer series or movies for relaxation?**
+> This question explores their entertainment preferences and can reveal their viewing habits and time commitments.
 
-**19. How's the service? Are the staff friendly?**
-> Inquire about customer service quality. Good service can make or break a dining experience.
+**19. I usually prefer series because I can watch one episode at a time.**
+> This response shows they value controlled viewing and explains their preference for series over movies.
 
-**20. Excellent! Our waiter was very attentive and helpful.**
-> Give high praise. "Attentive" means paying close attention to customers' needs.
+**20. That's smart! Series give you more control over your viewing time.**
+> This positive response validates their choice and emphasizes the benefits of series for time management and relaxation.
 
-**21. Did they have vegetarian options?**
-> Ask about dietary accommodations. This is important for people with specific food requirements.
+**21. I think so too! Plus, you can look forward to the next episode.**
+> This agreement shows they appreciate the anticipation aspect of series and explains how it enhances their viewing experience.
 
-**22. Yes, they have a separate vegetarian menu with lots of choices.**
-> Provide specific information. A "separate menu" shows they take vegetarian options seriously.
+**22. Do you have any favorite series you'd recommend for relaxation?**
+> This question shows interest in their entertainment recommendations and can lead to sharing of favorite shows.
 
-**23. That's good to know. My partner doesn't eat meat.**
-> Express appreciation for useful information and explain its relevance to your situation.
+**23. I really enjoy light comedies and feel-good series.**
+> This response shares their entertainment preferences for relaxation, showing they value positive, uplifting content.
 
-**24. They'll definitely be happy with the options then.**
-> Reassure based on the information shared. "Definitely" expresses strong certainty.
+**24. That sounds perfect! Feel-good shows are so important for mental health.**
+> This positive response validates their entertainment choices and emphasizes the mental health benefits of positive content.
 
-**25. Can you send me the address?**
-> Request practical information directly. This moves the conversation toward action.
+**25. I completely agree! Sometimes you just need something that makes you smile.**
+> This agreement confirms their perspective and explains the emotional benefits of uplifting entertainment.
 
-**26. Sure! I'll text it to you right now.**
-> Agree immediately and specify the method and timing of delivery.
+**26. What's the most relaxing activity you've ever tried?**
+> This question explores their relaxation experiences and can reveal their most effective stress relief methods.
 
-**27. Thanks so much! I really appreciate all the information.**
-> Express comprehensive gratitude. Acknowledging "all the information" shows you value their detailed help.
+**27. I think meditation has been the most relaxing for me.**
+> This response shares their most effective relaxation method and shows they value mindfulness and mental wellness practices.
 
+## Bài tập luyện viết
+
+**Bài tập: Chuyển từ tiếng Việt sang tiếng Anh**
+
+> Sau một ngày căng thẳng, tôi thích đi bộ dài trong công viên và nghe nhạc thư giãn. Tôi thích nhạc cụ, đặc biệt là piano và các tác phẩm cổ điển. Tôi thấy rằng lời bài hát đôi khi có thể gây mất tập trung khi tôi cố gắng thư giãn. Tôi thường đọc một cuốn sách hay hoặc xem một chương trình hài kịch nhẹ nhàng. Tôi yêu tiểu thuyết trinh thám và câu chuyện tình cảm nhẹ nhàng. Tôi thường thích phim bộ hơn vì tôi có thể xem một tập mỗi lần. Tôi thực sự thích các bộ phim hài nhẹ nhàng và các bộ phim truyền hình tích cực. Đôi khi bạn chỉ cần thứ gì đó khiến bạn mỉm cười. Tôi nghĩ thiền định là hoạt động thư giãn nhất mà tôi từng thử!

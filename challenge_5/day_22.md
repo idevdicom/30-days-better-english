@@ -1,115 +1,120 @@
 # Day 22 - 36 câu
 
 ## Video
-> place video here
+> https://www.youtube.com/watch?v=UlYBHzDJUTQ
 
 ## Practice sentences
 
-**1. I've been trying to live more sustainably.**
-> Express ongoing effort toward environmental goal. "Sustainably" means in an environmentally friendly way.
+**1. What's your favorite way to spend time with family?**
+> Use this question to learn about someone's family relationships and bonding activities. It's a great way to understand their values and what brings them joy in family connections.
 
-**2. That's admirable! What changes have you made?**
-> Show respect and ask for specifics. Present perfect asks about completed actions.
+**2. I love cooking together and sharing meals around the dinner table.**
+> This response shares a specific family activity that shows they value both cooking and the social aspect of shared meals.
 
-**3. I've started using reusable bags and bottles.**
-> Share concrete actions. "Reusable" means can be used multiple times instead of disposable.
+**3. That sounds absolutely wonderful! Cooking together creates such special memories.**
+> This positive response shows appreciation for their family activity and emphasizes the memory-making aspect of shared cooking.
 
-**4. Those are great first steps. What else are you considering?**
-> Validate progress and encourage more. This motivates continued effort.
+**4. I think so too! There's something so bonding about preparing food together.**
+> This agreement confirms their perspective and shows they understand the emotional connection created through shared cooking.
 
-**5. I'm thinking about reducing my meat consumption.**
-> Share next consideration. Diet changes significantly impact environmental footprint.
+**5. What's your favorite family recipe that you've learned to make?**
+> This follow-up question explores their culinary heritage and can reveal their family traditions and cultural background.
 
-**6. That can make a big difference. Are you going fully vegetarian?**
-> Acknowledge impact and ask about extent. "Fully" means completely.
+**6. My grandmother's apple pie recipe is my absolute favorite.**
+> This response shares a specific family recipe that shows they value family culinary traditions and grandmother's influence.
 
-**7. Not completely. I'm trying the "Meatless Monday" approach.**
-> Explain moderate approach. Starting with one day per week is manageable.
+**7. That sounds delicious! Family recipes are such precious treasures.**
+> This positive response shows appreciation for their family recipe and emphasizes the sentimental value of culinary heritage.
 
-**8. That's a realistic way to start. How's it going so far?**
-> Approve gradual approach and ask about experience. "So far" means up to this point.
+**8. It really is! Every time I make it, I feel connected to my family history.**
+> This response confirms their appreciation and shows they value the emotional connection to family through cooking.
 
-**9. It's easier than I expected. I've discovered some great recipes.**
-> Share positive experience. Exceeding expectations encourages continuation.
+**9. Do you have any special family traditions around cooking or meals?**
+> This question explores their family customs and can reveal their cultural background and family values.
 
-**10. Would you share some of those recipes?**
-> Request specific information politely. "Would you" is more formal than "can you."
+**10. We always cook together on Sundays and everyone has their own special dish to contribute.**
+> This response shares a specific family tradition that shows they value both routine and individual contributions to family meals.
 
-**11. Of course! I'll send you a few of my favorites.**
-> Accept request enthusiastically. Sharing knowledge helps others adopt sustainable practices.
+**11. That's such a beautiful tradition! It sounds like everyone gets to share their talents.**
+> This positive response validates their family tradition and emphasizes the value of individual contributions to family activities.
 
-**12. What about transportation? Have you made changes there?**
-> Shift to another sustainability area. Transportation is a major carbon source.
+**12. I think so too! What's your favorite family memory involving food?**
+> This agreement confirms their perspective and asks for a specific memory that shows the emotional significance of family meals.
 
-**13. I've been cycling to work instead of driving.**
-> Share transportation change. Cycling reduces emissions and improves health.
+**13. I remember my first time making the apple pie with my grandmother when I was eight.**
+> This response shares a specific childhood memory that shows they value both learning and the emotional connection with family.
 
-**14. That's fantastic! How far is your commute?**
-> Express strong approval and ask for context. "Commute" means journey to work.
+**14. That's such a precious memory! Learning to cook with grandparents is so special.**
+> This positive response validates their memory and emphasizes the significance of intergenerational learning and bonding.
 
-**15. About 5 miles. It takes me roughly 25 minutes.**
-> Provide distance and time. "Roughly" means approximately.
+**15. It really was! She was so patient and let me make mistakes without getting frustrated.**
+> This response confirms their appreciation and shows they value patience and supportive teaching in family relationships.
 
-**16. That's a reasonable distance. What about bad weather?**
-> Assess feasibility and ask about challenges. Weather is a common cycling obstacle.
+**16. That's such a beautiful way to learn! Patience really does make all the difference in teaching.**
+> This positive response validates their experience and emphasizes the importance of patience in educational relationships.
 
-**17. I take public transportation on rainy days.**
-> Explain contingency plan. Having alternatives ensures consistency.
+**17. I think so too! What other activities do you enjoy doing with your family?**
+> This agreement confirms their perspective and asks for additional family activities they value.
 
-**18. That still reduces your carbon footprint significantly.**
-> Affirm environmental benefit. "Carbon footprint" is total greenhouse gas emissions.
+**18. We love playing board games and going for walks in the park together.**
+> This response shares specific family activities that show they value both indoor and outdoor family time.
 
-**19. Have you thought about your energy consumption at home?**
-> Introduce another sustainability aspect. Home energy use is a major factor.
+**19. That sounds like such a perfect balance! Board games and nature walks are both wonderful family activities.**
+> This positive response validates their family activities and emphasizes the value of both indoor and outdoor family bonding.
 
-**20. I recently switched to LED bulbs throughout my apartment.**
-> Share energy-saving action. LEDs use much less electricity than traditional bulbs.
+**20. I think so too! What's your favorite board game to play with family?**
+> This agreement confirms their perspective and asks for specific preferences in their family activities.
 
-**21. Those use much less electricity and last longer too.**
-> Explain dual benefit. Cost savings and environmental benefits align.
+**21. We love playing Scrabble because it's both fun and educational.**
+> This response shares a specific game preference that shows they value both entertainment and learning in family activities.
 
-**22. I've noticed my electricity bill has gone down.**
-> Report positive outcome. Financial savings reinforce sustainable choices.
+**22. That's a great choice! Scrabble really does combine fun with learning.**
+> This positive response validates their game choice and emphasizes the educational benefits of word games.
 
-**23. What about water usage? Any changes there?**
-> Continue exploring sustainability areas. Water conservation is important.
+**23. I think so too! What's the most important thing about family time for you?**
+> This agreement confirms their perspective and asks about their core values in family relationships.
 
-**24. I've installed a low-flow showerhead.**
-> Share water-saving measure. Low-flow fixtures reduce water consumption.
+**24. I think it's the feeling of being completely accepted and loved for who you are.**
+> This response shares their core value in family relationships, showing they value unconditional love and acceptance.
 
-**25. Does it make a noticeable difference?**
-> Ask about effectiveness. People want to know if changes are worthwhile.
+**25. That's such a beautiful sentiment! Family really should be our safe haven.**
+> This positive response validates their value and emphasizes the importance of family as a source of emotional security.
 
-**26. Yes, my water bill is about 20% lower now.**
-> Provide quantified result. Specific numbers make the benefit concrete.
+**26. I think so too! What's your favorite family holiday or celebration?**
+> This agreement confirms their perspective and asks about their preferred family celebrations.
 
-**27. Do you try to reduce waste as well?**
-> Ask about waste management. Reducing waste is another key sustainability pillar.
+**27. I love Christmas because everyone comes together and we spend the whole day cooking and eating.**
+> This response shares a specific holiday preference that shows they value both family gathering and culinary traditions.
 
-**28. I've started composting my food scraps.**
-> Share waste reduction method. Composting diverts organic waste from landfills.
+**28. That sounds absolutely magical! Christmas really does bring families together in such a special way.**
+> This positive response validates their holiday preference and emphasizes the unifying power of Christmas celebrations.
 
-**29. That's excellent! Do you have a backyard for that?**
-> Express approval and ask about logistics. Space affects composting options.
+**29. I think so too! What's the most meaningful gift you've ever received from family?**
+> This agreement confirms their perspective and asks about significant family gifts that hold emotional value.
 
-**30. No, but I use a small indoor composting bin.**
-> Explain apartment-friendly solution. Indoor composting makes it accessible to everyone.
+**30. My parents gave me a family photo album for my graduation, and it meant everything to me.**
+> This response shares a specific meaningful gift that shows they value family memories and emotional connections.
 
-**31. I didn't know that was possible. Does it smell?**
-> Express surprise and ask common concern. Odor is a frequent worry.
+**31. That's such a thoughtful gift! Family photos really do capture so many precious moments.**
+> This positive response validates their gift and emphasizes the sentimental value of family photographs.
 
-**32. Not if you maintain it properly. It's actually odorless.**
-> Address concern conditionally. Proper care prevents smell issues.
+**32. I think so too! What's your favorite thing about being part of your family?**
+> This agreement confirms their perspective and asks about their appreciation for their family relationships.
 
-**33. I might try that. Any other tips for sustainable living?**
-> Express interest and request more advice. Open-ended question invites sharing.
+**33. I love how we support each other through everything and celebrate each other's successes.**
+> This response shares their appreciation for family support and shows they value both emotional support and shared celebration.
 
-**34. Buy secondhand when possible and repair instead of replacing.**
-> Suggest consumption changes. These reduce waste and resource use.
+**34. That's such a beautiful family dynamic! Support and celebration really are the foundations of strong families.**
+> This positive response validates their family values and emphasizes the importance of support and celebration in family relationships.
 
-**35. That makes sense economically and environmentally.**
-> Recognize dual benefit. Solutions that save money and environment are most sustainable.
+**35. I think so too! What's the most important lesson your family has taught you?**
+> This agreement confirms their perspective and asks about the key values they've learned from their family.
 
-**36. Every small action adds up to make a real difference.**
-> Provide encouraging perspective. "Adds up" means accumulates to create significant impact.
+**36. They've taught me that love, patience, and understanding are the most important things in life.**
+> This response shares the fundamental values they've learned from their family, showing they value love, patience, and understanding as core life principles, ending the conversation on a meaningful note about family values and relationships.
 
+## Bài tập luyện viết
+
+**Bài tập: Chuyển từ tiếng Việt sang tiếng Anh**
+
+> Tôi thích nấu ăn cùng nhau và chia sẻ bữa ăn quanh bàn ăn. Công thức bánh táo của bà ngoại tôi là món yêu thích tuyệt đối của tôi. Mỗi lần làm nó, tôi cảm thấy kết nối với lịch sử gia đình mình. Chúng tôi luôn nấu ăn cùng nhau vào Chủ nhật và mọi người đều có món ăn đặc biệt riêng để đóng góp. Tôi nhớ lần đầu tiên làm bánh táo với bà ngoại khi tôi tám tuổi. Bà rất kiên nhẫn và để tôi mắc lỗi mà không cảm thấy thất vọng. Chúng tôi thích chơi board game và đi dạo trong công viên cùng nhau. Chúng tôi yêu chơi Scrabble vì nó vừa vui vừa giáo dục. Tôi nghĩ điều quan trọng nhất là cảm giác được chấp nhận hoàn toàn và yêu thương vì con người thật của bạn. Tôi yêu cách chúng tôi hỗ trợ nhau qua mọi thứ và ăn mừng thành công của nhau. Họ đã dạy tôi rằng tình yêu, sự kiên nhẫn và hiểu biết là những điều quan trọng nhất trong cuộc sống!

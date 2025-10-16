@@ -1,73 +1,78 @@
 # Day 8 - 22 câu
 
 ## Video
-> place video here
+> https://www.youtube.com/watch?v=UlYBHzDJUTQ
 
 ## Practice sentences
 
-**1. I'm really excited about the weekend!**
-> Express enthusiasm using "excited about." "Really" intensifies the emotion and makes your statement more energetic.
+**1. How do you usually spend your evenings after work?**
+> Use this question to learn about someone's daily routine and evening activities. It's a great way to understand their lifestyle and relaxation habits.
 
-**2. Do you have anything special planned?**
-> Ask about someone's plans in an interested way. "Anything special" suggests you're curious about notable activities, not routine ones.
+**2. I usually cook dinner and then relax with a good book or TV show.**
+> This response shares a typical evening routine with specific activities. It shows they value both cooking and relaxation, indicating a balanced lifestyle.
 
-**3. Yes, I'm going hiking with some friends.**
-> Use present continuous for definite future plans. "Going hiking" is the standard way to describe this outdoor activity.
+**3. That sounds like a perfect way to unwind after a busy day.**
+> This positive response shows appreciation for their evening routine and acknowledges the importance of relaxation after work.
 
-**4. That sounds like fun! Where are you going?**
-> Show interest and ask for details. "Sounds like fun" is an enthusiastic, friendly response to someone's plans.
+**4. I think so too! Cooking helps me clear my mind and focus on something creative.**
+> This response explains the benefits of cooking for their mental well-being, showing they value the therapeutic aspects of cooking.
 
-**5. We're planning to hike up Mount Tam.**
-> "Planning to" indicates your intentions. "Hike up" specifically means climbing or ascending a mountain or hill.
+**5. That's a beautiful way to think about cooking! Do you enjoy trying new recipes?**
+> This appreciative response shows understanding of their perspective and asks about their culinary exploration, which can lead to recipe discussions.
 
-**6. How long is the hike?**
-> Ask about duration or distance. In hiking context, this could refer to time needed or the trail length.
+**6. Yes, I love experimenting with new recipes, especially from different cultures.**
+> This enthusiastic response shows they actively seek culinary diversity and enjoy learning about different cuisines through cooking.
 
-**7. It's about 5 miles, so probably 3 hours round trip.**
-> Provide distance and estimated time. "Round trip" means the total journey there and back.
+**7. That's wonderful! Cooking is such a great way to explore different cultures.**
+> This positive response validates their approach to cooking and emphasizes the cultural learning aspect of culinary exploration.
 
-**8. Don't forget to bring water and snacks.**
-> Give practical advice using "don't forget to." It's caring and helpful without being controlling.
+**8. I completely agree! What's the most interesting cuisine you've tried cooking?**
+> This agreement shows shared appreciation and asks for specific examples, encouraging them to share memorable cooking experiences.
 
-**9. Good idea! I'll pack some sandwiches too.**
-> Accept advice positively and add to it. "Pack" means to prepare items for a trip. "Too" shows you're adding to the list.
+**9. I recently tried making Thai curry, and it was quite challenging but rewarding.**
+> This response shares a specific cooking experience with honest assessment of difficulty and satisfaction, showing they embrace culinary challenges.
 
-**10. What's the weather forecast like?**
-> Ask about predicted weather conditions. "Forecast" refers to future weather predictions, important for outdoor planning.
+**10. That sounds delicious! Thai food has such complex and amazing flavors.**
+> This enthusiastic response shows appreciation for Thai cuisine and acknowledges the sophistication of its flavor profiles.
 
-**11. It should be sunny and warm. Perfect hiking weather!**
-> Use "should be" for predictions based on forecasts. Adding "perfect hiking weather" expresses your satisfaction with the conditions.
+**11. It really does! The balance of sweet, sour, and spicy is incredible.**
+> This response confirms their appreciation for Thai flavors and shows understanding of the cuisine's characteristic taste balance.
 
-**12. Make sure to wear sunscreen.**
-> Give health advice using "make sure to." It emphasizes importance while remaining friendly.
+**12. Do you usually cook for yourself or do you enjoy cooking for others too?**
+> This question explores their cooking preferences and social aspects of cooking, which can reveal their approach to sharing meals.
 
-**13. I always do. Thanks for reminding me.**
-> Show you have good habits with "I always do," and appreciate the reminder. It's polite even when you already know.
+**13. I cook for myself most of the time, but I love cooking for friends and family.**
+> This response shows they primarily cook for personal enjoyment but also value the social aspect of sharing meals with loved ones.
 
-**14. Have a great time! I want to see photos.**
-> Wish someone well and show interest in their experience. Asking for photos shows you care and want to share in their adventure.
+**14. That's lovely! Cooking for others is such a wonderful way to show care and love.**
+> This positive response acknowledges the emotional aspect of cooking for others and emphasizes the caring nature of sharing meals.
 
-**15. I'll definitely take some. The view from the top is amazing.**
-> Promise to do something with "definitely." Describe scenery using strong adjectives like "amazing" to convey excitement.
+**15. I think so too! There's something special about sharing a homemade meal.**
+> This agreement shows shared understanding of the meaningful nature of home-cooked meals and the connection they create.
 
-**16. I'm a bit jealous. I wish I could join you.**
-> Express envy playfully. "I wish I could" is used for hypothetical desires that aren't possible in reality.
+**16. What's your favorite dish to cook for special occasions?**
+> This question explores their special occasion cooking and can reveal their approach to celebratory meals and entertaining.
 
-**17. You should come next time! We go monthly.**
-> Extend an invitation for the future. "Monthly" means once every month, showing it's a regular activity.
+**17. I love making lasagna for special dinners. It's a bit time-consuming but always worth it.**
+> This response shares a specific dish they enjoy making for special occasions and explains their reasoning for choosing it.
 
-**18. That would be wonderful! Please let me know.**
-> Accept the invitation enthusiastically. "Please let me know" requests to be informed when plans are made.
+**18. Lasagna is such a classic comfort food! It's perfect for bringing people together.**
+> This positive response shows appreciation for their choice and emphasizes the communal nature of lasagna as a shared meal.
 
-**19. I'll send you a message when we plan the next one.**
-> Promise to communicate using future simple "I'll." "When we plan" shows the action hasn't happened yet.
+**19. Exactly! It's one of those dishes that everyone seems to love.**
+> This agreement confirms their understanding of lasagna's universal appeal and the joy of cooking dishes that bring people together.
 
-**20. Thanks! I'm looking forward to it.**
-> Express anticipation using "looking forward to." It shows genuine interest and excitement about future events.
+**20. Do you have any cooking tips you'd like to share?**
+> This question shows interest in their culinary knowledge and creates an opportunity for them to share helpful advice.
 
-**21. In the meantime, enjoy your weekend!**
-> "In the meantime" means during the time between now and a future event. It's a sophisticated transition phrase.
+**21. I think the most important thing is to taste as you cook and not be afraid to experiment.**
+> This response shares practical cooking advice that emphasizes both technique and creativity, showing they value both skill and innovation in cooking.
 
-**22. You too! Talk to you later.**
-> Return good wishes with "you too" and end the conversation warmly. "Talk to you later" is casual and friendly.
+**22. That's excellent advice! Cooking should be both skillful and fun.**
+> This appreciative response validates their cooking philosophy and emphasizes the balance between technique and enjoyment in cooking.
 
+## Bài tập luyện viết
+
+**Bài tập: Chuyển từ tiếng Việt sang tiếng Anh**
+
+> Sau giờ làm việc, tôi thường nấu bữa tối và sau đó thư giãn với một cuốn sách hay hoặc chương trình TV. Nấu ăn giúp tôi xóa tan tâm trí và tập trung vào điều gì đó sáng tạo. Tôi thích thử nghiệm các công thức nấu ăn mới, đặc biệt là từ các nền văn hóa khác nhau. Gần đây tôi đã thử làm cà ri Thái, và nó khá thử thách nhưng rất bổ ích. Tôi chủ yếu nấu cho bản thân, nhưng tôi cũng thích nấu cho bạn bè và gia đình. Món ăn yêu thích của tôi để nấu trong những dịp đặc biệt là lasagna. Tôi nghĩ điều quan trọng nhất trong nấu ăn là nếm thử khi nấu và không ngại thử nghiệm!

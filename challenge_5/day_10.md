@@ -1,79 +1,84 @@
 # Day 10 - 24 câu
 
 ## Video
-> place video here
+> https://www.youtube.com/watch?v=UlYBHzDJUTQ
 
 ## Practice sentences
 
-**1. Congratulations on your promotion!**
-> Express happiness for someone's success. "Congratulations on" is the standard way to celebrate achievements and milestones.
+**1. What's the most interesting place you've ever visited?**
+> Use this question to learn about someone's travel experiences and memorable destinations. It's a great way to discover their interests and travel preferences.
 
-**2. Thank you! I worked really hard for this.**
-> Accept congratulations with gratitude and acknowledge your effort. "Worked hard for" shows dedication and commitment.
+**2. I think it would have to be the ancient temples in Cambodia.**
+> This response shares a specific destination with historical significance. The use of "I think" shows they're considering their options, and "ancient temples" indicates cultural interest.
 
-**3. You deserve it. Your effort really paid off.**
-> Validate someone's success. "Paid off" means the effort resulted in positive outcomes or rewards.
+**3. That sounds absolutely fascinating! What made it so special for you?**
+> This enthusiastic response shows genuine interest in their experience and asks for specific details about what made the destination memorable.
 
-**4. When do you start your new position?**
-> Ask about timing of new responsibilities. "Position" is a formal word for job role or title.
+**4. The history and architecture were incredible, and the local people were so welcoming.**
+> This response explains the appeal of the destination through multiple aspects - historical significance, architectural beauty, and cultural hospitality.
 
-**5. I'll start next Monday. I'm a bit nervous.**
-> Share specific timing and honest feelings. Admitting nervousness shows authenticity and openness.
+**5. That's wonderful! History and culture really make travel so much more meaningful.**
+> This positive response shows appreciation for their perspective and emphasizes the value of cultural and historical experiences in travel.
 
-**6. That's completely normal. You'll do great!**
-> Reassure someone by normalizing their feelings. "You'll do great" expresses confidence in their abilities.
+**6. I completely agree! It's amazing how much you can learn about different cultures.**
+> This agreement shows shared appreciation for cultural learning through travel and emphasizes the educational value of travel experiences.
 
-**7. Thanks for the encouragement. It means a lot.**
-> Acknowledge emotional support. "Means a lot" expresses how much you value their kind words.
+**7. Did you have a guide, or did you explore the temples on your own?**
+> This follow-up question explores their approach to experiencing the destination and can reveal their travel style and preferences.
 
-**8. How's your new apartment?**
-> Ask about someone's recent change in living situation. "How's" is short for "how is" and very common in casual speech.
+**8. We had a local guide who shared amazing stories about the temple's history.**
+> This response shows they chose to have a guide and benefited from local knowledge and storytelling, indicating they value cultural education.
 
-**9. It's wonderful! Much bigger than my old place.**
-> Express satisfaction and make comparisons. "Much bigger" uses an intensifier with comparative adjective.
+**9. That sounds perfect! Local guides always have the most interesting stories.**
+> This positive response validates their choice and emphasizes the value of local knowledge and storytelling in travel experiences.
 
-**10. Have you finished unpacking yet?**
-> Ask about completion of a process with present perfect. "Yet" in questions asks if something has happened up to now.
+**10. They really do! Our guide made the whole experience so much more engaging.**
+> This response confirms their appreciation for the guide's contribution and explains how it enhanced their overall experience.
 
-**11. Not quite. I still have a few boxes left.**
-> "Not quite" means almost but not completely. "Still have... left" indicates remaining tasks or items.
+**11. What was the most surprising thing you learned during your visit?**
+> This question seeks specific details about their learning experience and can reveal unexpected insights or cultural discoveries.
 
-**12. Moving is always so exhausting.**
-> Express empathy through a general truth. "Always" emphasizes this is a universal experience.
+**12. I was amazed to learn about the intricate carvings and their symbolic meanings.**
+> This response shares a specific learning experience that shows they appreciated the artistic and cultural significance of the temple details.
 
-**13. Tell me about it! But it's worth it.**
-> "Tell me about it" is an idiom meaning "I completely agree." "Worth it" means the benefits outweigh the difficulties.
+**13. That's incredible! Art and symbolism really bring history to life.**
+> This enthusiastic response shows appreciation for their learning experience and emphasizes the connection between art, symbolism, and historical understanding.
 
-**14. Do you need any help organizing?**
-> Offer assistance with a specific task. "Organizing" refers to arranging and putting things in order.
+**14. It really does! I had no idea how much detail and meaning was in every carving.**
+> This response confirms their appreciation and shows they gained new understanding about the depth of artistic and cultural expression.
 
-**15. That's very kind of you to offer.**
-> Acknowledge someone's generosity. This structure "kind of you to + verb" is polite and appreciative.
+**15. Did you take many photos, or did you prefer to just experience the moment?**
+> This question explores their approach to documenting their travel experience and can reveal their balance between photography and mindfulness.
 
-**16. I could use some help hanging pictures.**
-> "Could use" is a subtle way to accept help. It's less direct than "I need" but still clear.
+**16. I took some photos, but I tried to focus on being present and absorbing the atmosphere.**
+> This response shows they value both documentation and mindfulness, indicating a balanced approach to experiencing and remembering their travel.
 
-**17. I'd be happy to help. When works for you?**
-> Confirm willingness and coordinate timing. "When works for you?" asks about their availability.
+**17. That's a beautiful approach! Sometimes the best memories are the ones we feel rather than capture.**
+> This positive response validates their mindful approach and emphasizes the value of emotional and sensory memories over photographic ones.
 
-**18. How about this Saturday afternoon?**
-> Suggest a specific time using "how about." "This Saturday" refers to the upcoming Saturday, not a general one.
+**18. I think so too! The feeling of being in that ancient place was unforgettable.**
+> This agreement shows shared appreciation for the emotional impact of travel experiences and emphasizes the lasting value of sensory memories.
 
-**19. That works perfectly for me.**
-> Confirm a time is convenient. "Works for me" is very common for agreeing to schedules.
+**19. Would you like to visit other historical sites in the future?**
+> This question explores their future travel interests and can reveal their ongoing interest in cultural and historical destinations.
 
-**20. Great! Should I bring any tools?**
-> Ask about what you should contribute. It shows initiative and consideration.
+**20. Absolutely! I'd love to visit more ancient sites around the world.**
+> This enthusiastic response shows they have ongoing interest in historical travel and cultural exploration, indicating a passion for learning about different cultures.
 
-**21. A hammer and a level would be helpful.**
-> Specify needed items. "Would be helpful" is polite and less demanding than "I need."
+**21. That sounds like an amazing travel goal! There are so many incredible places to discover.**
+> This positive response shows appreciation for their travel aspirations and emphasizes the abundance of cultural destinations available for exploration.
 
-**22. No problem. I have both of those.**
-> Confirm you can provide what's needed. "Both" refers to two items previously mentioned.
+**22. I know! It's exciting to think about all the places I haven't seen yet.**
+> This response shows enthusiasm for future travel possibilities and demonstrates an open-minded approach to cultural exploration.
 
-**23. Perfect! See you on Saturday around 2 PM?**
-> Finalize plans with specific time. "Around" indicates approximate timing with some flexibility.
+**23. Travel really does open your mind to so many new perspectives and experiences.**
+> This response emphasizes the transformative power of travel and its ability to broaden understanding and appreciation for different cultures.
 
-**24. Sounds good! Looking forward to it.**
-> Confirm agreement enthusiastically. This positive ending maintains good rapport and shows genuine interest.
+**24. I couldn't agree more! It's one of the best ways to grow as a person.**
+> This agreement confirms the value of travel for personal growth and development, ending the conversation on a meaningful note about the benefits of cultural exploration.
 
+## Bài tập luyện viết
+
+**Bài tập: Chuyển từ tiếng Việt sang tiếng Anh**
+
+> Nơi thú vị nhất tôi từng đến thăm là những ngôi đền cổ ở Campuchia. Lịch sử và kiến trúc ở đó thật đáng kinh ngạc, và người dân địa phương rất thân thiện. Chúng tôi có một hướng dẫn viên địa phương đã chia sẻ những câu chuyện tuyệt vời về lịch sử của ngôi đền. Tôi đã rất ngạc nhiên khi học về những tác phẩm chạm khắc phức tạp và ý nghĩa biểu tượng của chúng. Tôi đã chụp một số bức ảnh, nhưng tôi cố gắng tập trung vào việc hiện diện và cảm nhận không khí. Cảm giác được ở trong nơi cổ xưa đó thật khó quên. Tôi rất muốn đến thăm thêm nhiều di tích lịch sử khác trên thế giới. Du lịch thực sự mở ra tâm trí của bạn với rất nhiều góc nhìn và trải nghiệm mới!

@@ -1,67 +1,72 @@
 # Day 6 - 20 câu
 
 ## Video
-> place video here
+> https://www.youtube.com/watch?v=UlYBHzDJUTQ
 
 ## Practice sentences
 
-**1. I'm looking for a new apartment.**
-> Use the present continuous "I'm looking for" to describe an ongoing search or activity. It's common when house hunting or job searching.
+**1. Have you traveled anywhere interesting recently?**
+> Use this question to learn about someone's travel experiences. It's a great conversation starter that can reveal their interests, lifestyle, and cultural experiences.
 
-**2. What kind of place are you looking for?**
-> Ask this to understand someone's preferences or requirements. "What kind of" inquires about type, style, or characteristics.
+**2. Yes, I went to Japan last month for a business trip.**
+> This response shares a recent travel experience with context about the purpose. "Last month" provides a specific timeframe, and "business trip" explains the reason for travel.
 
-**3. I need something close to the city center.**
-> Express requirements using "I need." "Close to" indicates proximity, which is important for location-based decisions.
+**3. That sounds amazing! How was your experience there?**
+> This enthusiastic response shows interest in their travel experience and asks for their personal impressions, which can lead to detailed discussions about the destination.
 
-**4. How many bedrooms do you need?**
-> This practical question helps narrow down options. Use "how many" for countable nouns like rooms, people, or items.
+**4. It was incredible! The culture is so different and fascinating.**
+> This positive response uses strong adjectives to express enthusiasm and mentions cultural aspects, showing appreciation for cultural diversity.
 
-**5. Two bedrooms would be perfect.**
-> Use "would be" to express what you'd ideally like. It's slightly less demanding than "I need" or "I want."
+**5. What was the most interesting thing you discovered?**
+> This follow-up question seeks specific details about their experience, encouraging them to share memorable moments or cultural insights.
 
-**6. What's your budget?**
-> This direct question about spending limits is common in real estate, shopping, or planning. It helps find suitable options.
+**6. The food was absolutely amazing, and people are so polite and respectful.**
+> This response highlights two specific aspects of Japanese culture - cuisine and social behavior - showing cultural awareness and appreciation.
 
-**7. I can spend up to $1,500 per month.**
-> Use "up to" to indicate your maximum limit. "Per month" clarifies the time period for recurring costs.
+**7. That's wonderful! Did you try any traditional Japanese dishes?**
+> This positive response shows interest in their culinary experiences and asks about traditional food, which is often a highlight of cultural travel.
 
-**8. That's reasonable. I'll send you some listings.**
-> "Reasonable" means fair or acceptable. "Listings" refers to available properties or items for sale/rent.
+**8. Yes, I tried sushi, ramen, and many other local specialties.**
+> This response provides specific examples of Japanese food they experienced, showing they engaged with local cuisine during their visit.
 
-**9. I really appreciate your help.**
-> Express deep gratitude with this phrase. "Really" adds emphasis to show how much you value someone's assistance.
+**9. That sounds delicious! What was your favorite dish?**
+> This enthusiastic response shows appreciation for their culinary exploration and asks for their personal preference, encouraging them to share their favorite experience.
 
-**10. It's my pleasure. That's what friends are for.**
-> Respond warmly to thanks with this phrase. "That's what friends are for" emphasizes the bond and mutual support.
+**10. I think the ramen was my favorite - it was so rich and flavorful.**
+> This response shares a specific preference with reasoning, showing they can articulate what they enjoyed about the food and why.
 
-**11. Are you free this evening?**
-> Ask about someone's availability using "are you free." It's the polite first step before making plans or inviting someone.
+**11. I love ramen too! Did you visit any famous ramen shops?**
+> This response shows shared interest in ramen and asks about specific locations, which can lead to discussions about famous restaurants or food experiences.
 
-**12. Yes, I don't have any plans. What's up?**
-> Confirm availability and show interest. "What's up?" is casual and invites the other person to share their idea.
+**12. Yes, I went to a small local shop that was recommended by a colleague.**
+> This response shows they sought local recommendations and visited authentic establishments, indicating they wanted an authentic cultural experience.
 
-**13. Would you like to go out for dinner?**
-> Make a polite invitation using "would you like to." It's more formal than "do you want to" and shows respect.
+**13. That's the best way to find good food! Local recommendations are always the most reliable.**
+> This response validates their approach to finding good food and emphasizes the value of local knowledge in travel experiences.
 
-**14. That sounds wonderful! Where should we go?**
-> Accept enthusiastically and contribute to planning. "Should we" asks for joint decision-making.
+**14. I completely agree! The locals always know the best places.**
+> This agreement shows shared understanding about travel and food discovery, emphasizing the importance of local knowledge and cultural immersion.
 
-**15. How about that new Italian restaurant downtown?**
-> Make suggestions using "how about." It's collaborative and leaves room for the other person to agree or suggest alternatives.
+**15. Did you have time to do any sightseeing while you were there?**
+> This question explores their travel activities beyond work, showing interest in their overall experience and cultural exploration.
 
-**16. Perfect! What time works for you?**
-> Confirm agreement and coordinate timing. "Works for you" asks if a time is convenient without being pushy.
+**16. Yes, I visited some temples and gardens in my free time.**
+> This response shows they made time for cultural activities and mentions specific types of attractions that are important in Japanese culture.
 
-**17. Let's meet at 7 PM. Is that okay?**
-> Propose a specific time and confirm it's suitable. "Is that okay?" shows consideration for the other person's schedule.
+**17. That sounds peaceful and beautiful! Temples and gardens are so serene.**
+> This response shows appreciation for their cultural activities and uses descriptive adjectives to express the atmosphere of these places.
 
-**18. Sounds good! I'll see you there.**
-> Confirm plans with this upbeat phrase. "See you there" indicates you'll meet at the location rather than traveling together.
+**18. They really were! It was a perfect way to relax after busy work days.**
+> This response confirms the peaceful nature of their experiences and explains how these activities provided balance during their business trip.
 
-**19. Should I make a reservation?**
-> Offer to handle a practical detail. This shows responsibility and helps ensure smooth plans.
+**19. That sounds like a wonderful trip! Would you like to go back to Japan?**
+> This positive response summarizes their experience and asks about future travel plans, showing interest in their long-term travel interests.
 
-**20. Yes, that would be great. Thank you!**
-> Accept the offer gratefully. "That would be great" expresses appreciation for someone taking initiative.
+**20. Absolutely! I'd love to go back and explore more of the country.**
+> This enthusiastic response shows they had a positive experience and are interested in further exploration, ending the conversation on an optimistic note about future travel.
 
+## Bài tập luyện viết
+
+**Bài tập: Chuyển từ tiếng Việt sang tiếng Anh**
+
+> Tháng trước tôi đã có một chuyến công tác tuyệt vời đến Nhật Bản. Trải nghiệm ở đó thật đáng kinh ngạc! Văn hóa Nhật Bản rất khác biệt và thú vị. Tôi đã thử nhiều món ăn truyền thống như sushi, ramen và nhiều đặc sản địa phương khác. Món ramen là món tôi thích nhất vì nó rất đậm đà và thơm ngon. Tôi cũng đã ghé thăm một số ngôi chùa và khu vườn trong thời gian rảnh rỗi. Những nơi này thật yên bình và đẹp đẽ, là cách hoàn hảo để thư giãn sau những ngày làm việc bận rộn. Tôi rất muốn quay lại Nhật Bản để khám phá thêm về đất nước này!

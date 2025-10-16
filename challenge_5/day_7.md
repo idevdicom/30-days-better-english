@@ -1,70 +1,75 @@
 # Day 7 - 21 câu
 
 ## Video
-> place video here
+> https://www.youtube.com/watch?v=UlYBHzDJUTQ
 
 ## Practice sentences
 
-**1. I have a headache.**
-> Use this to describe a common health complaint. It's straightforward and helps others understand you're not feeling well.
+**1. What do you like to do in your free time?**
+> Use this question to learn about someone's hobbies and leisure activities. It's a great way to discover common interests and understand their lifestyle.
 
-**2. Have you taken any medicine?**
-> Ask this with present perfect tense to find out if someone has already addressed their problem. It shows concern and helps determine next steps.
+**2. I enjoy reading books and watching movies on weekends.**
+> This response shares two common leisure activities with a time context. "Enjoy" shows genuine interest, and mentioning weekends provides specific timing.
 
-**3. Not yet. I think I'll take some painkillers.**
-> "Not yet" indicates you plan to do something soon. "I think I'll" expresses a decision you're making at the moment of speaking.
+**3. That sounds relaxing! What kind of books do you like to read?**
+> This positive response shows appreciation for their activities and asks for specific details about their reading preferences, which can reveal their interests.
 
-**4. You should also drink plenty of water.**
-> Give health advice using "should." "Plenty of" means a large amount, which is appropriate for health recommendations.
+**4. I mostly read fiction, especially mystery and science fiction novels.**
+> This response provides specific genre preferences with examples, showing they have particular tastes in literature and enjoy imaginative storytelling.
 
-**5. Thanks for the advice. I will.**
-> Accept advice gracefully and confirm you'll follow it. Short responses like "I will" avoid repeating the entire action.
+**5. That's interesting! I love mystery books too. Do you have a favorite author?**
+> This response shows shared interest in mystery books and asks about specific authors, which can lead to book recommendations and deeper discussions.
 
-**6. If it doesn't get better, you should see a doctor.**
-> Use conditional "if" to give advice for specific situations. "Get better" means to improve or recover.
+**6. I really enjoy Agatha Christie's novels. Her plots are so clever and engaging.**
+> This response shares a specific author preference with reasoning, showing they can articulate what they appreciate about the author's writing style.
 
-**7. I hope it's nothing serious.**
-> Express concern while remaining optimistic. This phrase shows care without alarming the other person.
+**7. I love Agatha Christie too! Her detective stories are absolutely brilliant.**
+> This enthusiastic response shows shared appreciation for the same author and uses strong positive language to express agreement and enthusiasm.
 
-**8. I'm sure I'll be fine. It's probably just stress.**
-> Reassure someone (or yourself) with "I'm sure." "Probably" indicates you're making an educated guess about the cause.
+**8. What about movies? Do you prefer action movies or dramas?**
+> This follow-up question explores their movie preferences, showing interest in their entertainment choices and potentially finding more common ground.
 
-**9. Make sure you get enough sleep tonight.**
-> "Make sure" is a gentle but firm way to remind someone to do something important. It's caring rather than bossy.
+**9. I like both, but I tend to prefer dramas and romantic comedies.**
+> This response shows they enjoy multiple genres but have preferences, demonstrating balanced tastes while being honest about their inclinations.
 
-**10. I will. Thanks for caring.**
-> Acknowledge someone's concern with gratitude. "Thanks for caring" shows you appreciate their emotional support, not just practical help.
+**10. That's great! Romantic comedies are so heartwarming and fun to watch.**
+> This positive response shows appreciation for their movie preferences and uses descriptive adjectives to express the appeal of romantic comedies.
 
-**11. What's your favorite movie?**
-> This classic conversation question helps you learn about someone's tastes and interests in entertainment.
+**11. I completely agree! They always put me in a good mood.**
+> This agreement shows shared appreciation for the genre and explains the emotional benefit of watching these movies.
 
-**12. I love action movies. How about you?**
-> Share your preference and return the question. "How about you?" keeps the conversation balanced and shows interest.
+**12. Do you prefer watching movies at home or at the cinema?**
+> This question explores their viewing preferences and can reveal their lifestyle choices regarding entertainment and social activities.
 
-**13. I prefer comedies. They always make me laugh.**
-> Use "prefer" to indicate a stronger liking compared to other options. Explain why with "they make me" to describe the effect.
+**13. I like both, but I prefer the cinema for the big screen experience.**
+> This response shows they appreciate both options but have a preference, and explains the reasoning behind their choice.
 
-**14. Have you seen any good movies lately?**
-> Ask about recent experiences using present perfect. "Lately" means in the recent past, perfect for casual updates.
+**14. That makes sense! The cinema experience is so immersive and exciting.**
+> This response validates their preference and uses descriptive language to express the appeal of the cinema experience.
 
-**15. Yes, I watched a great comedy last weekend.**
-> Use past simple for completed actions at a specific time. "Last weekend" clearly indicates when it happened.
+**15. What about you? Do you go to the cinema often?**
+> This reciprocal question shows interest in their movie-going habits and keeps the conversation balanced and engaging.
 
-**16. What was it called?**
-> Ask for the title or name of something using this structure. It's natural and commonly used for movies, books, or songs.
+**16. Not as often as I'd like, but I try to go once or twice a month.**
+> This honest response shows they would like to go more often but provides a realistic frequency, indicating they value the cinema experience.
 
-**17. It was called "The Big Smile." You should watch it!**
-> Give the title and make a recommendation. "You should" suggests something is worth their time.
+**17. That's a good frequency! It's nice to have that special movie experience regularly.**
+> This encouraging response validates their movie-going frequency and emphasizes the value of regular cinema visits.
 
-**18. I'll add it to my watch list.**
-> Show you value the recommendation and plan to follow through. "Watch list" is a modern term for entertainment you intend to see.
+**18. I think so too! It's a great way to escape and enjoy some entertainment.**
+> This agreement shows shared appreciation for the cinema experience and explains the benefits of movie-going as entertainment and escape.
 
-**19. Let me know what you think after you watch it.**
-> Request feedback using "let me know." This keeps the conversation going and shows genuine interest in their opinion.
+**19. Do you usually go alone or with friends and family?**
+> This question explores their social preferences for movie-going and can reveal their approach to leisure activities and social connections.
 
-**20. I definitely will. Thanks for the recommendation.**
-> "Definitely" adds strong confirmation to your promise. Always thank people for sharing suggestions.
+**20. I usually go with friends, but sometimes I enjoy going alone too.**
+> This response shows they appreciate both social and solo movie experiences, indicating they're comfortable with different types of entertainment.
 
-**21. No problem! I hope you enjoy it.**
-> Close the exchange positively. "I hope you enjoy it" shows you genuinely want them to have a good experience.
+**21. That's wonderful! Both experiences have their own special appeal.**
+> This positive response acknowledges the value of both social and solo movie experiences, ending the conversation on an inclusive and appreciative note.
 
+## Bài tập luyện viết
+
+**Bài tập: Chuyển từ tiếng Việt sang tiếng Anh**
+
+> Trong thời gian rảnh rỗi, tôi thích đọc sách và xem phim vào cuối tuần. Tôi chủ yếu đọc tiểu thuyết, đặc biệt là truyện trinh thám và khoa học viễn tưởng. Tôi rất thích các tiểu thuyết của Agatha Christie vì cốt truyện của bà rất thông minh và hấp dẫn. Về phim ảnh, tôi thích cả phim hành động và phim tình cảm, nhưng tôi có xu hướng thích phim tình cảm và phim hài lãng mạn hơn. Tôi thích xem phim ở rạp vì trải nghiệm màn hình lớn rất tuyệt vời. Tôi thường đi xem phim với bạn bè, nhưng đôi khi tôi cũng thích đi một mình. Cả hai trải nghiệm đều có sức hấp dẫn riêng của chúng!

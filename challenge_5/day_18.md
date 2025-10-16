@@ -1,103 +1,108 @@
 # Day 18 - 32 câu
 
 ## Video
-> place video here
+> https://www.youtube.com/watch?v=UlYBHzDJUTQ
 
 ## Practice sentences
 
-**1. I need to improve my time management skills.**
-> Identify a personal development goal. "Time management" means organizing how you use your time effectively.
+**1. What's your biggest dream or goal for the future?**
+> Use this question to learn about someone's aspirations and life direction. It's a great way to understand their values, motivations, and what they hope to achieve.
 
-**2. What seems to be the main issue?**
-> Ask for root cause. "Main issue" helps focus on the most important problem.
+**2. I dream of starting my own business and being able to help other people.**
+> This response shares a specific entrepreneurial goal with a service-oriented purpose, showing they value both independence and helping others.
 
-**3. I procrastinate too much and miss deadlines.**
-> Admit specific problem. "Procrastinate" means delay or postpone tasks unnecessarily.
+**3. That sounds like such a meaningful and ambitious goal! What kind of business are you thinking about?**
+> This positive response shows appreciation for their goal and asks for specific details about their business vision.
 
-**4. That's a common struggle. Have you tried using a planner?**
-> Normalize the problem and suggest tool. "Common struggle" shows they're not alone.
+**4. I'm interested in creating educational technology that makes learning more accessible.**
+> This response shares a specific business idea that combines technology with education, showing they value learning and accessibility.
 
-**5. I've tried, but I never stick with it.**
-> Explain past failure. "Stick with it" means continue doing something consistently.
+**5. That's such a wonderful idea! Education technology can really make a difference in people's lives.**
+> This enthusiastic response shows appreciation for their business concept and emphasizes the positive impact of educational technology.
 
-**6. Maybe you need to find a system that works for you.**
-> Suggest personalized approach. Different systems work for different people.
+**6. I think so too! I believe everyone deserves access to quality education.**
+> This agreement confirms their perspective and shows they value educational equity and equal opportunities.
 
-**7. What do you mean by that?**
-> Ask for clarification. This simple question ensures understanding.
+**7. That's such a noble mission! What inspired you to pursue this goal?**
+> This positive response validates their mission and asks about the experiences that motivated their career direction.
 
-**8. Some people prefer digital tools, others like paper planners.**
-> Explain options. Contrasting preferences shows there's no one-size-fits-all solution.
+**8. I've seen how technology can transform learning, and I want to help more people experience that.**
+> This response explains their motivation by sharing their observations about technology's impact on education.
 
-**9. I've mostly tried apps, but they feel overwhelming.**
-> Share experience with issue. "Overwhelming" means causing stress due to complexity.
+**9. That's beautiful! Technology really does have the power to democratize education.**
+> This positive response validates their understanding and emphasizes the transformative potential of technology in education.
 
-**10. Have you tried the Pomodoro Technique?**
-> Suggest specific method. The Pomodoro Technique uses timed work intervals.
+**10. I completely agree! What steps are you taking to work toward this dream?**
+> This agreement confirms their perspective and asks about their concrete actions toward achieving their goal.
 
-**11. I've heard of it, but I'm not sure how it works.**
-> Show awareness but lack knowledge. This invites explanation.
+**11. I'm currently learning about educational psychology and user experience design.**
+> This response shares specific learning activities that show they're actively preparing for their business goal.
 
-**12. You work for 25 minutes, then take a 5-minute break.**
-> Explain the basic concept. Simple structure makes it easy to understand.
+**12. That's excellent! Understanding both the learning process and user needs is so important.**
+> This positive response validates their learning approach and emphasizes the importance of both psychological and design knowledge.
 
-**13. That sounds manageable. Does it really help?**
-> React positively and ask for effectiveness. "Manageable" means doable or achievable.
+**13. I think so too! I want to create something that's both effective and enjoyable to use.**
+> This agreement confirms their perspective and shows they value both functionality and user experience in their future product.
 
-**14. It helps you stay focused and avoid burnout.**
-> Explain benefits. Breaking work into intervals prevents mental fatigue.
+**14. That's such a thoughtful approach! User experience is crucial for educational technology.**
+> This positive response validates their approach and emphasizes the importance of user experience in educational tools.
 
-**15. I'll give it a try. Any other suggestions?**
-> Commit to trying and ask for more. "Give it a try" means attempt or test something.
+**15. I completely agree! What's the biggest challenge you think you'll face?**
+> This agreement confirms their perspective and asks about potential obstacles, showing interest in their problem-solving approach.
 
-**16. Break large tasks into smaller, more manageable steps.**
-> Give important strategy. Large projects are less intimidating when divided.
+**16. I think the biggest challenge will be making the technology accessible to people with different learning styles.**
+> This response identifies a specific challenge that shows they're thinking deeply about inclusivity and diverse learning needs.
 
-**17. That makes sense. I often feel overwhelmed by big projects.**
-> Acknowledge wisdom and relate to experience. "Makes sense" means it's logical.
+**17. That's such an important consideration! Accessibility is crucial for educational technology.**
+> This positive response validates their concern and emphasizes the importance of accessibility in educational tools.
 
-**18. Start by listing all the steps needed to complete it.**
-> Give specific first action. "Start by" introduces the initial step in a process.
+**18. I think so too! I want to create something that works for everyone, regardless of their background.**
+> This agreement confirms their perspective and shows they value inclusivity and equal access to educational opportunities.
 
-**19. Then tackle them one at a time?**
-> Confirm understanding of next step. "Tackle" means to deal with or address.
+**19. That's such a beautiful vision! How do you plan to test and improve your ideas?**
+> This positive response validates their vision and asks about their approach to development and iteration.
 
-**20. Exactly! And celebrate small wins along the way.**
-> Confirm and add motivational element. "Along the way" means during the process.
+**20. I plan to work with educators and students to get feedback and make improvements.**
+> This response shares their collaborative approach to development, showing they value input from end users and educational professionals.
 
-**21. I like that approach. It sounds less stressful.**
-> Express approval. Reducing stress makes methods more sustainable.
+**21. That's such a smart approach! Getting feedback from the people who will actually use it is essential.**
+> This positive response validates their approach and emphasizes the importance of user feedback in product development.
 
-**22. Also, identify your most productive hours.**
-> Add another tip. Working during peak energy times increases efficiency.
+**22. I think so too! I want to make sure I'm solving real problems for real people.**
+> This agreement confirms their perspective and shows they value practical problem-solving over theoretical solutions.
 
-**23. What do you mean by productive hours?**
-> Ask for clarification on concept. Understanding is key to implementation.
+**23. What's the most exciting part of pursuing this dream for you?**
+> This question explores their motivation and can reveal what aspects of their goal energize them most.
 
-**24. Some people work best in the morning, others at night.**
-> Explain individual differences. "Work best" means perform most effectively.
+**24. I'm most excited about the possibility of helping someone learn something that changes their life.**
+> This response shares their deepest motivation, showing they value the transformative power of education and learning.
 
-**25. I'm definitely more alert in the morning.**
-> Identify personal pattern. "Alert" means awake and focused.
+**25. That's such a powerful motivation! Education really does have the power to change lives.**
+> This positive response validates their motivation and emphasizes the life-changing potential of education.
 
-**26. Then schedule your most important tasks for the morning.**
-> Give personalized advice based on their response. Matching tasks to energy optimizes productivity.
+**26. I couldn't agree more! What advice would you give to someone with a similar dream?**
+> This agreement confirms their perspective and asks for their advice, showing interest in their wisdom and experience.
 
-**27. That's smart! I usually waste my mornings on emails.**
-> Recognize insight and admit suboptimal habit. "Waste" suggests time not well spent.
+**27. I'd say to start small, learn continuously, and never lose sight of why you're doing it.**
+> This response shares practical advice that shows they value incremental progress, continuous learning, and maintaining purpose.
 
-**28. Save emails for later when your energy dips.**
-> Suggest reordering tasks. "Dips" means decreases or drops.
+**28. That's excellent advice! Starting small and staying focused on your purpose is so important.**
+> This positive response validates their advice and emphasizes the importance of both practical steps and maintaining motivation.
 
-**29. These are all really helpful tips. Thank you!**
-> Express comprehensive gratitude. Acknowledging multiple tips shows appreciation.
+**29. I think so too! What's your timeline for achieving this dream?**
+> This agreement confirms their perspective and asks about their planning and goal-setting approach.
 
-**30. You're welcome! Remember, consistency is key.**
-> Accept thanks and emphasize important principle. "Key" means essential or crucial.
+**30. I'm hoping to have a prototype ready within the next two years.**
+> This response provides a specific timeline that shows they're thinking practically about their goal achievement.
 
-**31. I'll start implementing these strategies tomorrow.**
-> Commit to action with timeline. "Implementing" means putting into practice.
+**31. That sounds like a realistic and exciting timeline! I wish you all the best with your dream.**
+> This positive response validates their timeline and offers encouragement for their future success.
 
-**32. Good luck! Let me know how it goes.**
-> Wish success and request update. This maintains connection and shows genuine interest.
+**32. Thank you so much! I really believe that with hard work and the right approach, anything is possible.**
+> This grateful response shows appreciation for the encouragement and expresses their optimistic belief in achieving their goals, ending the conversation on an inspiring note about determination and possibility.
 
+## Bài tập luyện viết
+
+**Bài tập: Chuyển từ tiếng Việt sang tiếng Anh**
+
+> Ước mơ lớn nhất của tôi là khởi nghiệp và có thể giúp đỡ người khác. Tôi quan tâm đến việc tạo ra công nghệ giáo dục giúp việc học tập trở nên dễ tiếp cận hơn. Tôi tin rằng mọi người đều xứng đáng có cơ hội tiếp cận giáo dục chất lượng. Tôi đang học về tâm lý học giáo dục và thiết kế trải nghiệm người dùng. Tôi muốn tạo ra thứ gì đó vừa hiệu quả vừa thú vị khi sử dụng. Thách thức lớn nhất sẽ là làm cho công nghệ có thể tiếp cận được với những người có phong cách học tập khác nhau. Tôi muốn tạo ra thứ gì đó phù hợp với mọi người, bất kể nền tảng của họ. Tôi dự định làm việc với các nhà giáo dục và học sinh để nhận phản hồi và cải thiện. Tôi hy vọng sẽ có một nguyên mẫu sẵn sàng trong vòng hai năm tới. Tôi thực sự tin rằng với sự chăm chỉ và cách tiếp cận đúng đắn, mọi thứ đều có thể!

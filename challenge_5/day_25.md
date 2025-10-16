@@ -1,124 +1,129 @@
 # Day 25 - 39 câu
 
 ## Video
-> place video here
+> https://www.youtube.com/watch?v=UlYBHzDJUTQ
 
 ## Practice sentences
 
-**1. I've been thinking about learning to play an instrument.**
-> Express musical aspiration. Present perfect continuous shows ongoing consideration.
+**1. What's your favorite way to stay motivated when facing challenges?**
+> Use this question to learn about someone's resilience and motivation strategies. It's a great way to understand their approach to overcoming difficulties and maintaining positive momentum.
 
-**2. That's wonderful! Which instrument interests you most?**
-> Show enthusiasm and ask for preference. Different instruments suit different personalities.
+**2. I try to break big challenges into smaller, manageable steps and celebrate each small victory.**
+> This response shares a specific strategy that shows they value both practical problem-solving and positive reinforcement.
 
-**3. I'm torn between guitar and piano.**
-> Express indecision. "Torn between" means having difficulty choosing.
+**3. That's such a smart approach! Breaking things down really does make challenges feel more achievable.**
+> This positive response validates their strategy and emphasizes the psychological benefits of breaking down large tasks.
 
-**4. Both are great choices. Have you played any instruments before?**
-> Validate options and ask about experience. Past experience influences learning curve.
+**4. I think so too! What's the most challenging situation you've faced recently?**
+> This agreement confirms their perspective and asks for specific examples of their recent challenges.
 
-**5. No, I'd be starting completely from scratch.**
-> Admit complete beginner status. "From scratch" means from the very beginning.
+**5. I had to learn a completely new software system at work while managing my regular responsibilities.**
+> This response shares a specific professional challenge that shows they value both learning and maintaining existing commitments.
 
-**6. That's perfectly fine. Everyone starts as a beginner.**
-> Normalize being a beginner. This removes intimidation.
+**6. That sounds quite demanding! How did you manage to balance learning with your regular work?**
+> This empathetic response shows understanding of the difficulty and asks about their time management approach.
 
-**7. Which one is easier to learn?**
-> Ask about difficulty comparison. Ease of learning affects choice.
+**7. I created a daily schedule that included dedicated learning time and prioritized my most important tasks.**
+> This response shares their organizational strategy that shows they value both structured learning and task prioritization.
 
-**8. Guitar might be slightly easier to start with.**
-> Give qualified opinion. "Might be" shows it's somewhat subjective.
+**8. That's such a thoughtful approach! Having a structured plan really does help manage overwhelming situations.**
+> This positive response validates their strategy and emphasizes the benefits of organization in complex situations.
 
-**9. Why is that?**
-> Ask for explanation. Understanding reasons helps informed decision.
+**9. I think so too! What kept you motivated during the learning process?**
+> This agreement confirms their perspective and asks about their motivation sources during challenging times.
 
-**10. You can play simple songs with just a few chords.**
-> Explain guitar advantage. Quick early success motivates continued practice.
+**10. I reminded myself that this new skill would make me more valuable and open up new opportunities.**
+> This response shares their motivation strategy that shows they value both personal development and career advancement.
 
-**11. How long would it take to learn those basic chords?**
-> Ask about timeline for basics. Realistic expectations help commitment.
+**11. That's such a powerful motivation! Focusing on future benefits really does help us push through difficult times.**
+> This positive response validates their motivation and emphasizes the value of long-term thinking during challenges.
 
-**12. With daily practice, maybe a few weeks to a month.**
-> Provide estimate with condition. Daily practice is key to progress.
+**12. I think so too! What's the most important lesson you learned from this experience?**
+> This agreement confirms their perspective and asks about the key insights they gained from their challenge.
 
-**13. What about piano? What are its advantages?**
-> Ask about alternative option. Knowing both sides helps comparison.
+**13. I learned that I'm more capable than I thought and that consistent effort really does pay off.**
+> This response shares a fundamental lesson that shows they value both self-confidence and the power of persistence.
 
-**14. Piano is excellent for understanding music theory.**
-> Explain piano benefit. Visual layout of keys aids theory comprehension.
+**14. That's such a valuable lesson! Self-confidence and persistence are such important qualities for success.**
+> This positive response validates their lesson and emphasizes the importance of both confidence and effort in achieving goals.
 
-**15. Is music theory important for a beginner?**
-> Question necessity of theory knowledge. Beginners may prioritize playing over theory.
+**15. I think so too! What advice would you give to someone facing a similar challenge?**
+> This agreement confirms their perspective and asks for their advice based on their experience.
 
-**16. It helps, but it's not absolutely essential at first.**
-> Give balanced perspective. Theory can come later if needed.
+**16. I'd say to be patient with yourself, ask for help when needed, and remember that learning takes time.**
+> This response shares practical advice that shows they value self-compassion, collaboration, and realistic expectations.
 
-**17. What's the main disadvantage of piano?**
-> Ask about drawbacks. Knowing challenges helps realistic planning.
+**17. That's excellent advice! Being patient with ourselves and asking for help are so important.**
+> This positive response validates their advice and emphasizes the importance of both self-compassion and seeking support.
 
-**18. Pianos are expensive and not very portable.**
-> Identify practical limitations. Space and cost are real constraints.
+**18. I think so too! What's your biggest source of motivation when things get really difficult?**
+> This agreement confirms their perspective and asks about their deepest motivation sources during tough times.
 
-**19. Could I use a keyboard instead of a full piano?**
-> Ask about alternative. Keyboards are more affordable and portable.
+**19. I think about the people who believe in me and the goals I'm working toward.**
+> This response shares their core motivation that shows they value both personal relationships and goal achievement.
 
-**20. Absolutely! A digital keyboard is perfect for beginners.**
-> Strongly endorse alternative. Digital options suit beginners well.
+**20. That's such a beautiful motivation! Having people who believe in us and clear goals really does provide powerful motivation.**
+> This positive response validates their motivation and emphasizes the power of both social support and clear objectives.
 
-**21. How much should I expect to spend on a beginner guitar?**
-> Ask about cost. Budget is practical consideration.
+**21. I think so too! What's the most rewarding part of overcoming challenges?**
+> This agreement confirms their perspective and asks about the satisfaction they derive from conquering difficulties.
 
-**22. You can find decent beginner guitars for $150-300.**
-> Provide price range. "Decent" means adequate quality for learning.
+**22. I love the feeling of accomplishment and the confidence that comes from knowing I can handle difficult situations.**
+> This response shares their satisfaction that shows they value both achievement and the confidence that comes from success.
 
-**23. Should I take lessons or teach myself?**
-> Ask about learning method. Different approaches suit different learners.
+**23. That's such a wonderful feeling! Accomplishment and confidence really do create a positive cycle of growth.**
+> This positive response validates their experience and emphasizes the self-reinforcing nature of success and confidence.
 
-**24. Lessons are helpful, but you can also learn from online tutorials.**
-> Present both options. Neither is exclusively necessary.
+**24. I think so too! What's your favorite way to celebrate overcoming a challenge?**
+> This agreement confirms their perspective and asks about their methods for acknowledging their successes.
 
-**25. Are online tutorials effective for complete beginners?**
-> Question effectiveness for their level. Quality varies online.
+**25. I like to take some time to reflect on what I learned and then treat myself to something special.**
+> This response shares their celebration approach that shows they value both reflection and self-reward.
 
-**26. Yes, many are specifically designed for beginners.**
-> Reassure about availability. Good beginner content exists.
+**26. That's such a thoughtful way to celebrate! Reflection and self-care really do complete the learning process.**
+> This positive response validates their approach and emphasizes the importance of both learning and self-care in success.
 
-**27. What's the advantage of having a teacher?**
-> Ask about professional instruction benefits. Understanding value helps decision.
+**27. I think so too! What's the most important thing you've learned about motivation?**
+> This agreement confirms their perspective and asks about their key insights regarding motivation and drive.
 
-**28. They can correct your mistakes and keep you accountable.**
-> Explain teacher benefits. Personal feedback prevents bad habits.
+**28. I've learned that motivation comes from within, but it's also important to surround yourself with supportive people.**
+> This response shares a fundamental insight that shows they understand both internal and external sources of motivation.
 
-**29. How often should I practice?**
-> Ask about practice frequency. Regular practice is crucial for progress.
+**29. That's such a wise realization! Internal motivation and external support really do work together beautifully.**
+> This positive response validates their insight and emphasizes the complementary nature of internal and external motivation sources.
 
-**30. Try to practice at least 20-30 minutes daily.**
-> Give minimum recommendation. Daily practice is better than long weekly sessions.
+**30. I think so too! What's your biggest challenge when it comes to staying motivated?**
+> This agreement confirms their perspective and asks about the difficulties they face in maintaining motivation.
 
-**31. Is it better to practice a little every day or a lot once a week?**
-> Compare practice patterns. Distribution of practice time matters.
+**31. Sometimes it's hard to stay motivated when progress feels slow or when I face setbacks.**
+> This honest response shows they acknowledge the challenge of maintaining motivation during difficult periods.
 
-**32. Definitely a little every day. Consistency is key.**
-> Give clear preference. Daily practice builds muscle memory better.
+**32. That's so relatable! Slow progress and setbacks really can test our motivation and resilience.**
+> This empathetic response validates their challenge and acknowledges the common difficulty of maintaining motivation during tough times.
 
-**33. Will my fingers hurt when I'm starting?**
-> Ask about common beginner concern. Physical discomfort is expected.
+**33. I think so too! What techniques do you use to regain motivation when you're feeling discouraged?**
+> This agreement confirms their perspective and asks about their specific methods for rebuilding motivation.
 
-**34. Yes, especially with guitar. You'll develop calluses over time.**
-> Confirm and explain adaptation. "Calluses" are hardened skin from pressure.
+**34. I try to remind myself of past successes and focus on the progress I've made, even if it's small.**
+> This response shares their technique that shows they value both historical success and incremental progress recognition.
 
-**35. How long does it take to build up those calluses?**
-> Ask about adjustment period. Knowing timeline helps manage expectations.
+**35. That's such a powerful technique! Remembering past successes really does help us regain confidence and motivation.**
+> This positive response validates their technique and emphasizes the psychological benefits of recalling past achievements.
 
-**36. Usually a few weeks of regular practice.**
-> Provide timeframe. Initial discomfort is temporary.
+**36. I think so too! What's the most important thing to remember when facing any challenge?**
+> This agreement confirms their perspective and asks about their key advice for approaching any difficult situation.
 
-**37. What if I lose motivation after starting?**
-> Express concern about persistence. Many beginners quit early.
+**37. I think it's important to remember that challenges are opportunities for growth and that you're stronger than you think.**
+> This response shares their fundamental belief that shows they value both growth mindset and self-confidence in facing difficulties.
 
-**38. Set small, achievable goals and celebrate your progress.**
-> Provide motivational strategy. Small wins maintain momentum.
+**38. That's such a powerful mindset! Viewing challenges as growth opportunities really does change everything.**
+> This positive response validates their mindset and emphasizes the transformative power of positive perspective on challenges.
 
-**39. I think I'll start with guitar. Thank you for all the advice!**
-> Make decision and express gratitude. The conversation helped them decide.
+**39. I couldn't agree more! That's the kind of thinking that helps us not just survive challenges, but thrive through them.**
+> This agreement confirms their perspective and emphasizes the difference between merely surviving and truly thriving through difficulties, ending the conversation on an inspiring note about the power of positive mindset and resilience.
 
+## Bài tập luyện viết
+
+**Bài tập: Chuyển từ tiếng Việt sang tiếng Anh**
+
+> Tôi cố gắng chia nhỏ những thử thách lớn thành các bước nhỏ, có thể quản lý được và ăn mừng mỗi chiến thắng nhỏ. Tôi đã phải học một hệ thống phần mềm hoàn toàn mới tại nơi làm việc trong khi quản lý các trách nhiệm thường xuyên của mình. Tôi đã tạo một lịch trình hàng ngày bao gồm thời gian học tập chuyên dụng và ưu tiên các nhiệm vụ quan trọng nhất của tôi. Tôi nhắc nhở bản thân rằng kỹ năng mới này sẽ làm cho tôi có giá trị hơn và mở ra những cơ hội mới. Tôi đã học được rằng tôi có khả năng hơn tôi nghĩ và nỗ lực nhất quán thực sự có kết quả. Tôi sẽ nói hãy kiên nhẫn với bản thân, yêu cầu giúp đỡ khi cần thiết và nhớ rằng việc học tập cần thời gian. Tôi nghĩ về những người tin tưởng vào tôi và những mục tiêu tôi đang hướng tới. Tôi yêu cảm giác thành tựu và sự tự tin đến từ việc biết rằng tôi có thể xử lý các tình huống khó khăn. Tôi đã học được rằng động lực đến từ bên trong, nhưng cũng quan trọng để bao quanh bản thân với những người hỗ trợ. Tôi nghĩ điều quan trọng là nhớ rằng thử thách là cơ hội để phát triển và bạn mạnh mẽ hơn bạn nghĩ!

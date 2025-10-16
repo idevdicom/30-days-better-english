@@ -1,76 +1,81 @@
 # Day 9 - 23 câu
 
 ## Video
-> place video here
+> https://www.youtube.com/watch?v=UlYBHzDJUTQ
 
 ## Practice sentences
 
-**1. Could you do me a favor?**
-> Use this polite phrase before asking someone to help you with something. It's respectful and gives them a chance to decline if necessary.
+**1. What's your favorite season of the year?**
+> Use this question to learn about someone's seasonal preferences. It's a great conversation starter that can reveal their personality and lifestyle preferences.
 
-**2. Sure, what do you need?**
-> Respond willingly and ask for details. This shows you're ready to help and opens the door for them to explain.
+**2. I love autumn because of the beautiful colors and cooler weather.**
+> This response shares a seasonal preference with specific reasons. It shows they appreciate natural beauty and comfortable weather conditions.
 
-**3. Can you help me move this table?**
-> Ask for physical assistance using "help me + verb." Be specific about what you need so the person understands the task.
+**3. That's a wonderful choice! Autumn is so peaceful and romantic.**
+> This positive response shows appreciation for their choice and uses descriptive adjectives to express the appeal of autumn.
 
-**4. No problem at all. Where do you want it?**
-> Accept the request readily. "At all" emphasizes there's truly no inconvenience. Then ask for specifics to complete the task correctly.
+**4. I think so too! What do you like to do during autumn?**
+> This agreement shows shared appreciation and asks about their seasonal activities, which can reveal their hobbies and lifestyle.
 
-**5. Let's put it over there, by the window.**
-> Use "let's" for collaborative actions. "Over there" points to a location, and "by the window" gives more precise placement.
+**5. I enjoy taking long walks in the park and watching the leaves change color.**
+> This response shares specific autumn activities that show appreciation for nature and seasonal changes.
 
-**6. On the count of three. One, two, three!**
-> Coordinate simultaneous action with this phrase. It's common when lifting heavy objects or doing synchronized activities.
+**6. That sounds absolutely beautiful! Nature is so inspiring during that time of year.**
+> This enthusiastic response shows appreciation for their activities and emphasizes the inspirational quality of autumn nature.
 
-**7. Great teamwork! That wasn't so hard.**
-> Compliment cooperation with "great teamwork." "Wasn't so hard" reflects relief that the task was easier than expected.
+**7. It really is! Do you have a favorite place to enjoy autumn scenery?**
+> This agreement confirms their appreciation and asks about specific locations, which can lead to discussions about favorite places.
 
-**8. Thanks for your help. I couldn't have done it alone.**
-> Express gratitude and acknowledge your need for help. "Couldn't have done it" is past conditional, showing the help was essential.
+**8. There's a beautiful park near my house with lots of maple trees.**
+> This response provides a specific location with details about the natural features that make it special for autumn viewing.
 
-**9. Anytime! That's what neighbors are for.**
-> "Anytime" means you're happy to help whenever needed. The phrase shows community spirit and willingness to assist.
+**9. That sounds perfect! Maple trees are so stunning in autumn.**
+> This positive response shows appreciation for their choice of location and acknowledges the beauty of maple trees in autumn.
 
-**10. I owe you one.**
-> This informal expression means you're grateful and willing to return the favor in the future. It acknowledges a debt of gratitude.
+**10. They really are! The red and orange colors are absolutely breathtaking.**
+> This response confirms their appreciation and uses descriptive language to express the visual beauty of autumn colors.
 
-**11. Don't worry about it. We help each other out.**
-> Dismiss the debt casually. "Help each other out" emphasizes mutual support and ongoing reciprocal assistance.
+**11. I can imagine! Do you take photos of the autumn scenery?**
+> This response shows understanding of their appreciation and asks about their documentation of the seasonal beauty.
 
-**12. I'm trying to learn how to cook.**
-> Share a current learning goal using "trying to learn." It invites advice or conversation about the topic.
+**12. Yes, I love taking photos, but I also just enjoy being present in the moment.**
+> This response shows they appreciate both photography and mindfulness, indicating a balanced approach to experiencing beauty.
 
-**13. That's great! Cooking is a useful skill.**
-> Encourage someone's efforts. Calling it a "useful skill" validates their choice to learn something practical.
+**13. That's a beautiful way to experience nature! Being present is so important.**
+> This positive response shows appreciation for their mindful approach and emphasizes the value of being present.
 
-**14. Do you have any tips for beginners?**
-> Ask for advice using "tips." "For beginners" specifies you want basic, foundational guidance.
+**14. I completely agree! Sometimes we get so caught up in capturing moments that we forget to experience them.**
+> This agreement shows shared understanding of the balance between documentation and experience, demonstrating thoughtful perspective.
 
-**15. Start with simple recipes and practice basic techniques.**
-> Give practical advice using imperatives. This structure is direct and clear, perfect for instructions and recommendations.
+**15. What about winter? Do you enjoy the colder months?**
+> This follow-up question explores their feelings about another season, showing interest in their overall seasonal preferences.
 
-**16. What would you recommend I try first?**
-> Ask for specific suggestions. This more formal structure shows respect for the other person's expertise.
+**16. I like winter for the cozy atmosphere, but I prefer autumn overall.**
+> This response shows they appreciate winter's qualities but maintain their preference for autumn, demonstrating balanced seasonal appreciation.
 
-**17. Try making pasta with a simple tomato sauce.**
-> Give a concrete recommendation. "Try making" suggests attempting something as an experiment or learning experience.
+**17. That makes sense! Autumn has that perfect balance of beauty and comfort.**
+> This response validates their preference and explains why autumn might be appealing, showing understanding of their seasonal choice.
 
-**18. That sounds manageable. Do I need any special equipment?**
-> "Manageable" means achievable or within your capabilities. Asking about equipment shows practical thinking.
+**18. Exactly! It's not too hot or too cold, and the scenery is just perfect.**
+> This agreement confirms their reasoning and adds specific details about why autumn is their preferred season.
 
-**19. Just a pot, a pan, and basic utensils.**
-> List simple requirements. "Just" minimizes the needs, making it seem easier and more accessible.
+**19. Do you have any special autumn traditions or activities?**
+> This question explores their seasonal traditions and can reveal their approach to celebrating or enjoying the season.
 
-**20. Perfect! I have all of those.**
-> Express satisfaction that you meet the requirements. "All of those" refers back to the items mentioned.
+**20. I like to visit pumpkin patches and apple orchards with my family.**
+> This response shares specific autumn traditions that involve family and seasonal activities, showing they value family time and seasonal experiences.
 
-**21. I can send you the recipe if you'd like.**
-> Offer additional help conditionally. "If you'd like" respects their choice and doesn't push.
+**21. That sounds like such a wonderful family tradition! Those are perfect autumn activities.**
+> This enthusiastic response shows appreciation for their family traditions and acknowledges the seasonal appropriateness of their activities.
 
-**22. That would be very helpful. Thank you so much!**
-> Accept gratefully. "Would be very helpful" expresses how much you'd appreciate the assistance.
+**22. I think so too! It's a great way to spend quality time together and enjoy the season.**
+> This agreement shows they value both family time and seasonal enjoyment, demonstrating their appreciation for meaningful experiences.
 
-**23. Good luck with your cooking! Let me know how it goes.**
-> Wish someone well in their endeavor. "How it goes" asks about the outcome or experience, showing continued interest.
+**23. Those are the kinds of memories that last a lifetime!**
+> This positive response emphasizes the lasting value of their family traditions and seasonal experiences, ending the conversation on a meaningful note.
 
+## Bài tập luyện viết
+
+**Bài tập: Chuyển từ tiếng Việt sang tiếng Anh**
+
+> Mùa thu là mùa yêu thích của tôi vì những màu sắc đẹp và thời tiết mát mẻ. Tôi thích đi dạo dài trong công viên và ngắm nhìn lá cây đổi màu. Có một công viên đẹp gần nhà tôi với nhiều cây phong. Màu đỏ và cam của chúng thật tuyệt vời! Tôi thích chụp ảnh phong cảnh mùa thu, nhưng tôi cũng thích chỉ tận hưởng khoảnh khắc hiện tại. Tôi thích mùa đông vì không khí ấm cúng, nhưng tôi vẫn thích mùa thu hơn cả. Tôi thích đến các trang trại bí ngô và vườn táo với gia đình. Đó là một cách tuyệt vời để dành thời gian chất lượng cùng nhau và tận hưởng mùa thu!

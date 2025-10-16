@@ -1,64 +1,69 @@
 # Day 5 - 19 câu
 
 ## Video
-> place video here
+> https://www.youtube.com/watch?v=UlYBHzDJUTQ
 
 ## Practice sentences
 
-**1. Can I ask you a question?**
-> Use this to politely request permission to ask something. It's respectful and gives the other person a chance to prepare for your question.
+**1. What's your favorite type of cuisine?**
+> Use this question to learn about someone's food preferences. It's a great conversation starter that can reveal cultural background and personal tastes.
 
-**2. Go ahead, I'm listening.**
-> This encourages someone to continue speaking. "Go ahead" gives permission, while "I'm listening" shows you're paying attention.
+**2. I really love Italian food, especially pasta and pizza.**
+> This response shares specific food preferences with examples. "Really love" emphasizes strong preference, and mentioning specific dishes provides concrete details.
 
-**3. What do you think about this idea?**
-> Ask this to get someone's opinion. It's valuable in work discussions, planning, or when you want feedback on something.
+**3. That's great! Italian food is so delicious and comforting.**
+> This enthusiastic response shows agreement and appreciation for Italian cuisine, using positive adjectives to express shared enjoyment.
 
-**4. I think it's a great idea. Let's do it!**
-> Express enthusiasm and agreement with this response. "Let's" suggests immediate action and teamwork.
+**4. Do you cook Italian food at home?**
+> This follow-up question explores their cooking skills and home cooking habits, which can lead to discussions about recipes and cooking experiences.
 
-**5. I'm not sure. Can we discuss it more?**
-> Use this when you need more information before deciding. It's diplomatic and keeps the conversation open.
+**5. Sometimes, but I'm not very good at making pasta from scratch.**
+> This honest response shows they attempt cooking but acknowledges limitations, which is relatable and can lead to helpful suggestions or shared experiences.
 
-**6. How long does it take to get there?**
-> Ask this about travel time to any location. It helps you plan your schedule and know when to leave.
+**6. That's okay! Even simple Italian dishes can be delicious.**
+> This encouraging response validates their efforts and emphasizes that good Italian food doesn't require advanced skills, showing support for their cooking attempts.
 
-**7. It takes about 30 minutes by car.**
-> Use "it takes + time + by + transport" to give travel duration. You can replace "car" with bus, train, bike, or "on foot."
+**7. You're right! I love making simple pasta with tomato sauce.**
+> This agreement shows they appreciate the encouragement and shares a specific dish they can make, demonstrating practical cooking knowledge.
 
-**8. Is there public transportation available?**
-> Ask this when planning travel without a personal vehicle. It's practical and shows you're considering different options.
+**8. That sounds wonderful! Do you use fresh tomatoes?**
+> This enthusiastic response shows interest in their cooking methods and asks about ingredients, which can lead to discussions about cooking techniques.
 
-**9. Yes, you can take the bus or the subway.**
-> Provide transportation options with this structure. "Can take" indicates possibility and choice.
+**9. Yes, I try to use fresh ingredients when possible.**
+> This response shows they value quality ingredients and make an effort to use fresh produce, indicating good cooking practices.
 
-**10. Which one is faster?**
-> Use this to compare two or more options. "Which one" asks for selection between specific choices.
+**10. That's the best way to cook! Fresh ingredients make such a difference.**
+> This supportive response validates their cooking approach and emphasizes the importance of quality ingredients in cooking.
 
-**11. The subway is faster, but the bus is cheaper.**
-> Compare options using comparative adjectives (-er). "But" introduces a contrasting advantage of each option.
+**11. I completely agree! What's your favorite type of cuisine?**
+> This agreement shows shared values about cooking, and the reciprocal question keeps the conversation balanced and engaging.
 
-**12. I need to make a phone call.**
-> Use this to excuse yourself or explain why you need privacy. "Make a phone call" is more formal than "call someone."
+**12. I enjoy Asian food, particularly Thai and Vietnamese dishes.**
+> This response shares different culinary preferences, showing cultural diversity in food choices and introducing new cuisine types to the conversation.
 
-**13. Sure, take your time.**
-> This response shows patience and understanding. It removes pressure and creates a comfortable atmosphere.
+**13. That's interesting! Asian food has such amazing flavors.**
+> This positive response shows appreciation for Asian cuisine and acknowledges the complexity and appeal of Asian flavors.
 
-**14. I'll be right back.**
-> Say this when leaving temporarily. "Right back" emphasizes you'll return quickly, usually within a few minutes.
+**14. Yes, I love the balance of sweet, sour, and spicy flavors.**
+> This response explains what they appreciate about Asian food, showing understanding of flavor profiles and culinary knowledge.
 
-**15. Excuse me, is this seat taken?**
-> Ask this before sitting down in public places. It's polite and prevents awkward situations if someone is saving the seat.
+**15. That sounds delicious! Have you tried cooking Asian food?**
+> This enthusiastic response shows interest in their culinary experiences and asks about their cooking skills with Asian cuisine.
 
-**16. No, please feel free to sit down.**
-> Welcome someone to use an available seat with this phrase. "Feel free to" is a warm way to give permission.
+**16. I've tried a few simple dishes, but I'm still learning.**
+> This honest response shows they're exploring Asian cooking but acknowledges they're still developing their skills in this cuisine.
 
-**17. Thank you. Do you come here often?**
-> This is a classic conversation starter in cafes, gyms, or regular meeting places. It can lead to friendly small talk.
+**17. That's great! Cooking different cuisines is so much fun.**
+> This encouraging response validates their exploration of different cuisines and emphasizes the enjoyment of culinary diversity.
 
-**18. Yes, I come here every morning for coffee.**
-> Share your routine using "every + time period." It explains your pattern and can create common ground with others.
+**18. I think so too! It's like traveling through food.**
+> This creative response uses a metaphor to express how cooking different cuisines allows them to experience different cultures through food.
 
-**19. It's a nice place. The atmosphere is very cozy.**
-> Compliment a location using descriptive adjectives. "Cozy" means comfortable and warm, perfect for cafes or small spaces.
+**19. What a beautiful way to put it! Food really does connect us to different cultures.**
+> This appreciative response acknowledges their thoughtful perspective and expands on the idea of food as a cultural bridge, ending the conversation on a meaningful note.
 
+## Bài tập luyện viết
+
+**Bài tập: Chuyển từ tiếng Việt sang tiếng Anh**
+
+> Tôi rất thích ẩm thực Ý, đặc biệt là mì ống và pizza. Tôi thường nấu những món ăn Ý đơn giản ở nhà, như mì ống với sốt cà chua. Tôi cố gắng sử dụng nguyên liệu tươi khi có thể vì chúng tạo ra sự khác biệt lớn trong hương vị. Ngoài ra, tôi cũng thích ẩm thực châu Á, đặc biệt là món Thái và Việt Nam. Tôi yêu sự cân bằng giữa vị ngọt, chua và cay trong các món ăn châu Á. Nấu ăn các món ăn khác nhau giống như du lịch qua ẩm thực vậy!
