@@ -1,129 +1,48 @@
-# Day 25 - 39 câu
+# Day 25 - 20 câu
 
 ## Video
-> https://www.youtube.com/watch?v=UlYBHzDJUTQ
+> No video
 
 ## Practice sentences
 
-**1. What's your favorite way to stay motivated when facing challenges?**
-> Use this question to learn about someone's resilience and motivation strategies. It's a great way to understand their approach to overcoming difficulties and maintaining positive momentum.
+**Sports & Fitness: A Story with 20 Useful Phrases**
 
-**2. I try to break big challenges into smaller, manageable steps and celebrate each small victory.**
-> This response shares a specific strategy that shows they value both practical problem-solving and positive reinforcement.
+"Hey everyone! Today I want to share my sports and fitness journey. **Regular exercise improves health.** Physical activity benefits both body and mind.
 
-**3. That's such a smart approach! Breaking things down really does make challenges feel more achievable.**
-> This positive response validates their strategy and emphasizes the psychological benefits of breaking down large tasks.
+I start my day with a morning run. **The fresh air energizes me.** Outdoor exercise connects me with nature. **My pace has improved significantly.** Progress motivates continued effort.
 
-**4. I think so too! What's the most challenging situation you've faced recently?**
-> This agreement confirms their perspective and asks for specific examples of their recent challenges.
+Team sports build camaraderie. **I joined a soccer league.** Group activities create social bonds. **Great pass! Let's celebrate.** Shared victories strengthen relationships.
 
-**5. I had to learn a completely new software system at work while managing my regular responsibilities.**
-> This response shares a specific professional challenge that shows they value both learning and maintaining existing commitments.
+Strength training builds muscle. **I lift weights three times weekly.** Resistance exercise increases metabolism. **This workout targets my core.** Specific training yields targeted results.
 
-**6. That sounds quite demanding! How did you manage to balance learning with your regular work?**
-> This empathetic response shows understanding of the difficulty and asks about their time management approach.
+Flexibility exercises prevent injury. **I practice yoga regularly.** Stretching improves mobility. **This pose challenges my balance.** Mindfulness enhances physical practice.
 
-**7. I created a daily schedule that included dedicated learning time and prioritized my most important tasks.**
-> This response shares their organizational strategy that shows they value both structured learning and task prioritization.
+Cardiovascular exercise boosts endurance. **I cycle to work daily.** Sustainable transport improves fitness. **My stamina has increased.** Consistent effort builds capacity.
 
-**8. That's such a thoughtful approach! Having a structured plan really does help manage overwhelming situations.**
-> This positive response validates their strategy and emphasizes the benefits of organization in complex situations.
+Sports psychology matters for performance. **I visualize success before games.** Mental preparation enhances physical execution. **This mindset shift helped me.** Positive thinking improves outcomes.
 
-**9. I think so too! What kept you motivated during the learning process?**
-> This agreement confirms their perspective and asks about their motivation sources during challenging times.
+Nutrition supports athletic goals. **I fuel my body with healthy foods.** Balanced diets optimize performance. **This protein shake aids recovery.** Proper nutrition accelerates progress.
 
-**10. I reminded myself that this new skill would make me more valuable and open up new opportunities.**
-> This response shares their motivation strategy that shows they value both personal development and career advancement.
+Rest days are crucial for recovery. **I listen to my body's signals.** Overtraining leads to burnout. **This massage relieved my soreness.** Recovery techniques aid healing.
 
-**11. That's such a powerful motivation! Focusing on future benefits really does help us push through difficult times.**
-> This positive response validates their motivation and emphasizes the value of long-term thinking during challenges.
+Setting fitness goals provides direction. **I aim to run a 10K race.** Specific targets motivate action. **I tracked my progress weekly.** Measurement ensures accountability.
 
-**12. I think so too! What's the most important lesson you learned from this experience?**
-> This agreement confirms their perspective and asks about the key insights they gained from their challenge.
+Group fitness classes add variety. **I tried a new dance class.** Diverse activities prevent boredom. **The instructor's energy is contagious.** Enthusiastic teaching enhances experience.
 
-**13. I learned that I'm more capable than I thought and that consistent effort really does pay off.**
-> This response shares a fundamental lesson that shows they value both self-confidence and the power of persistence.
+Sports equipment requires maintenance. **I clean my gear regularly.** Proper care extends usability. **This shoe needs replacement.** Quality equipment supports performance.
 
-**14. That's such a valuable lesson! Self-confidence and persistence are such important qualities for success.**
-> This positive response validates their lesson and emphasizes the importance of both confidence and effort in achieving goals.
+Injury prevention is paramount. **I warm up before exercising.** Preparation reduces accident risk. **This stretch prevents strains.** Proactive care maintains health.
 
-**15. I think so too! What advice would you give to someone facing a similar challenge?**
-> This agreement confirms their perspective and asks for their advice based on their experience.
+Competitive sports teach life lessons. **I learned resilience through losses.** Adversity builds character. **This comeback was inspiring.** Perseverance leads to success.
 
-**16. I'd say to be patient with yourself, ask for help when needed, and remember that learning takes time.**
-> This response shares practical advice that shows they value self-compassion, collaboration, and realistic expectations.
+Fitness technology tracks progress. **I use a fitness app.** Data-driven insights guide training. **My heart rate monitor is accurate.** Technology enhances self-awareness.
 
-**17. That's excellent advice! Being patient with ourselves and asking for help are so important.**
-> This positive response validates their advice and emphasizes the importance of both self-compassion and seeking support.
+Outdoor sports connect with nature. **I hike on weekends.** Natural environments provide peace. **The trail offers beautiful views.** Scenery enhances enjoyment.
 
-**18. I think so too! What's your biggest source of motivation when things get really difficult?**
-> This agreement confirms their perspective and asks about their deepest motivation sources during tough times.
-
-**19. I think about the people who believe in me and the goals I'm working toward.**
-> This response shares their core motivation that shows they value both personal relationships and goal achievement.
-
-**20. That's such a beautiful motivation! Having people who believe in us and clear goals really does provide powerful motivation.**
-> This positive response validates their motivation and emphasizes the power of both social support and clear objectives.
-
-**21. I think so too! What's the most rewarding part of overcoming challenges?**
-> This agreement confirms their perspective and asks about the satisfaction they derive from conquering difficulties.
-
-**22. I love the feeling of accomplishment and the confidence that comes from knowing I can handle difficult situations.**
-> This response shares their satisfaction that shows they value both achievement and the confidence that comes from success.
-
-**23. That's such a wonderful feeling! Accomplishment and confidence really do create a positive cycle of growth.**
-> This positive response validates their experience and emphasizes the self-reinforcing nature of success and confidence.
-
-**24. I think so too! What's your favorite way to celebrate overcoming a challenge?**
-> This agreement confirms their perspective and asks about their methods for acknowledging their successes.
-
-**25. I like to take some time to reflect on what I learned and then treat myself to something special.**
-> This response shares their celebration approach that shows they value both reflection and self-reward.
-
-**26. That's such a thoughtful way to celebrate! Reflection and self-care really do complete the learning process.**
-> This positive response validates their approach and emphasizes the importance of both learning and self-care in success.
-
-**27. I think so too! What's the most important thing you've learned about motivation?**
-> This agreement confirms their perspective and asks about their key insights regarding motivation and drive.
-
-**28. I've learned that motivation comes from within, but it's also important to surround yourself with supportive people.**
-> This response shares a fundamental insight that shows they understand both internal and external sources of motivation.
-
-**29. That's such a wise realization! Internal motivation and external support really do work together beautifully.**
-> This positive response validates their insight and emphasizes the complementary nature of internal and external motivation sources.
-
-**30. I think so too! What's your biggest challenge when it comes to staying motivated?**
-> This agreement confirms their perspective and asks about the difficulties they face in maintaining motivation.
-
-**31. Sometimes it's hard to stay motivated when progress feels slow or when I face setbacks.**
-> This honest response shows they acknowledge the challenge of maintaining motivation during difficult periods.
-
-**32. That's so relatable! Slow progress and setbacks really can test our motivation and resilience.**
-> This empathetic response validates their challenge and acknowledges the common difficulty of maintaining motivation during tough times.
-
-**33. I think so too! What techniques do you use to regain motivation when you're feeling discouraged?**
-> This agreement confirms their perspective and asks about their specific methods for rebuilding motivation.
-
-**34. I try to remind myself of past successes and focus on the progress I've made, even if it's small.**
-> This response shares their technique that shows they value both historical success and incremental progress recognition.
-
-**35. That's such a powerful technique! Remembering past successes really does help us regain confidence and motivation.**
-> This positive response validates their technique and emphasizes the psychological benefits of recalling past achievements.
-
-**36. I think so too! What's the most important thing to remember when facing any challenge?**
-> This agreement confirms their perspective and asks about their key advice for approaching any difficult situation.
-
-**37. I think it's important to remember that challenges are opportunities for growth and that you're stronger than you think.**
-> This response shares their fundamental belief that shows they value both growth mindset and self-confidence in facing difficulties.
-
-**38. That's such a powerful mindset! Viewing challenges as growth opportunities really does change everything.**
-> This positive response validates their mindset and emphasizes the transformative power of positive perspective on challenges.
-
-**39. I couldn't agree more! That's the kind of thinking that helps us not just survive challenges, but thrive through them.**
-> This agreement confirms their perspective and emphasizes the difference between merely surviving and truly thriving through difficulties, ending the conversation on an inspiring note about the power of positive mindset and resilience.
+My fitness journey inspires others. **I motivate my friends to exercise.** Shared encouragement builds community. **What's your fitness routine?** I'd love to hear your experiences."
 
 ## Bài tập luyện viết
 
 **Bài tập: Chuyển từ tiếng Việt sang tiếng Anh**
 
-> Tôi cố gắng chia nhỏ những thử thách lớn thành các bước nhỏ, có thể quản lý được và ăn mừng mỗi chiến thắng nhỏ. Tôi đã phải học một hệ thống phần mềm hoàn toàn mới tại nơi làm việc trong khi quản lý các trách nhiệm thường xuyên của mình. Tôi đã tạo một lịch trình hàng ngày bao gồm thời gian học tập chuyên dụng và ưu tiên các nhiệm vụ quan trọng nhất của tôi. Tôi nhắc nhở bản thân rằng kỹ năng mới này sẽ làm cho tôi có giá trị hơn và mở ra những cơ hội mới. Tôi đã học được rằng tôi có khả năng hơn tôi nghĩ và nỗ lực nhất quán thực sự có kết quả. Tôi sẽ nói hãy kiên nhẫn với bản thân, yêu cầu giúp đỡ khi cần thiết và nhớ rằng việc học tập cần thời gian. Tôi nghĩ về những người tin tưởng vào tôi và những mục tiêu tôi đang hướng tới. Tôi yêu cảm giác thành tựu và sự tự tin đến từ việc biết rằng tôi có thể xử lý các tình huống khó khăn. Tôi đã học được rằng động lực đến từ bên trong, nhưng cũng quan trọng để bao quanh bản thân với những người hỗ trợ. Tôi nghĩ điều quan trọng là nhớ rằng thử thách là cơ hội để phát triển và bạn mạnh mẽ hơn bạn nghĩ!
+> Thể thao và sức khỏe là phần quan trọng trong lối sống hàng ngày của tôi. Tôi bắt đầu ngày mới bằng việc chạy bộ để tăng cường sức khỏe tim mạch và hô hấp. Việc tham gia các môn thể thao đồng đội giúp tôi xây dựng tình bạn và kỹ năng làm việc nhóm. Tôi chú trọng đến việc tập luyện cân bằng giữa các bài tập tim mạch, sức mạnh và linh hoạt. Dinh dưỡng phù hợp và thời gian nghỉ ngơi đầy đủ là yếu tố then chốt để đạt được mục tiêu thể chất. Tôi tin rằng việc duy trì thói quen tập luyện đều đặn sẽ mang lại sức khỏe tốt và tinh thần tích cực.

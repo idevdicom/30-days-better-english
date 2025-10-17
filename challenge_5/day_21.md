@@ -1,117 +1,46 @@
-# Day 21 - 35 câu
+# Day 21 - 20 câu
 
 ## Video
-> https://www.youtube.com/watch?v=UlYBHzDJUTQ
+> No video
 
 ## Practice sentences
 
-**1. What's your favorite way to celebrate achievements and milestones?**
-> Use this question to learn about someone's approach to recognizing success and progress. It's a great way to understand their values and how they acknowledge accomplishments.
+**Personal Finance: A Story with 20 Useful Phrases**
 
-**2. I like to treat myself to a nice dinner or buy something I've been wanting for a while.**
-> This response shares specific ways they celebrate achievements, showing they value both experiences and material rewards for their accomplishments.
+"Hey everyone! Today I want to share my personal finance journey. **Managing money wisely is important.** Financial literacy leads to independence and security.
 
-**3. That sounds like a wonderful way to acknowledge your hard work!**
-> This positive response shows appreciation for their celebration approach and emphasizes the importance of recognizing effort and achievement.
+I start each month by creating a budget. **I track my income and expenses.** Categorizing spending helps identify patterns. **This app makes budgeting easy.** Technology simplifies financial management.
 
-**4. I think so too! It's important to celebrate the small wins as well as the big ones.**
-> This agreement confirms their perspective and shows they value acknowledging progress at all levels.
+Saving money requires discipline and planning. **I set aside 20% of my salary.** Emergency funds provide peace of mind. **I opened a high-interest savings account.** Smart banking choices maximize returns.
 
-**5. What's the most meaningful achievement you've celebrated recently?**
-> This follow-up question seeks specific examples of their recent accomplishments and can reveal their current goals and successes.
+Investing for the future builds wealth. **I contribute to my retirement fund.** Compound interest works over time. **This stock performed well last quarter.** Diversification reduces investment risk.
 
-**6. I recently completed a challenging project at work that I'd been working on for months.**
-> This response shares a specific professional achievement that shows they value persistence and completion of difficult tasks.
+Credit card management prevents debt. **I pay my balance in full monthly.** Avoiding interest charges saves money. **This purchase fits my budget.** Conscious spending maintains financial health.
 
-**7. That's fantastic! Completing a long-term project must feel so rewarding.**
-> This positive response shows appreciation for their achievement and emphasizes the satisfaction of completing challenging work.
+Negotiating bills reduces expenses. **I called to lower my internet bill.** Service providers often offer discounts. **This coupon saves me 15%.** Smart shopping stretches dollars further.
 
-**8. It really does! The sense of accomplishment was incredible.**
-> This response confirms their satisfaction and shows they value the emotional reward of completing difficult work.
+Financial goals motivate saving. **I want to buy a house in five years.** Specific targets guide financial decisions. **I increased my down payment savings.** Progress toward goals feels rewarding.
 
-**9. How did you celebrate that particular achievement?**
-> This question explores their specific celebration methods and can reveal their personal approach to rewarding themselves.
+Insurance protects against unexpected events. **I review my policies annually.** Adequate coverage provides security. **This deductible seems reasonable.** Understanding terms prevents surprises.
 
-**10. I took a long weekend trip to the mountains to relax and recharge.**
-> This response shares a specific celebration activity that shows they value both relaxation and nature experiences.
+Tax planning optimizes returns. **I maximize my retirement contributions.** Legal deductions reduce tax liability. **This accountant provides good advice.** Professional guidance ensures compliance.
 
-**11. That sounds perfect! A mountain getaway is such a great way to unwind after intense work.**
-> This positive response validates their celebration choice and emphasizes the restorative benefits of nature and relaxation.
+Building good credit opens opportunities. **I maintain a low credit utilization.** Timely payments build credit history. **This score qualifies me for better rates.** Strong credit reduces borrowing costs.
 
-**12. I think so too! The fresh air and quiet really helped me process everything.**
-> This agreement confirms their perspective and shows they value the mental and emotional benefits of their celebration choice.
+Financial education is ongoing. **I read books about money management.** Knowledge empowers better decisions. **This podcast explains investing clearly.** Accessible resources democratize finance.
 
-**13. Do you prefer celebrating alone or with others?**
-> This question explores their social preferences for celebrations and can reveal their approach to sharing achievements.
+Avoiding lifestyle inflation preserves wealth. **I live below my means.** Contentment comes from experiences, not things. **This purchase brings lasting joy.** Quality over quantity ensures satisfaction.
 
-**14. I like both, but I think celebrating with others makes the achievement feel more meaningful.**
-> This response shows they value both personal and social celebration, but emphasizes the added meaning of shared recognition.
+Side hustles supplement income. **I freelance on weekends.** Multiple income streams provide stability. **This gig economy app is convenient.** Flexibility accommodates changing needs.
 
-**15. That's such a beautiful perspective! Sharing joy really does amplify the experience.**
-> This positive response validates their preference and emphasizes the emotional benefits of shared celebration.
+Philanthropy aligns with values. **I donate to causes I care about.** Giving back creates positive impact. **This charity uses funds efficiently.** Research ensures donations make a difference.
 
-**16. I think so too! What's your favorite way to celebrate with others?**
-> This agreement confirms their perspective and asks for specific examples of their social celebration preferences.
+Financial independence brings freedom. **I retired early through smart planning.** Self-sufficiency reduces stress. **This lifestyle requires minimal expenses.** Simple living enables financial goals.
 
-**17. I love having a small gathering with close friends and family.**
-> This response shares their preference for intimate celebrations, showing they value close relationships and personal connections.
-
-**18. That sounds wonderful! Intimate celebrations are so much more meaningful than big parties.**
-> This positive response validates their preference and emphasizes the value of personal, close-knit celebrations.
-
-**19. I completely agree! What's the most important part of any celebration for you?**
-> This agreement confirms their perspective and asks about their core values in celebration.
-
-**20. I think it's the feeling of being appreciated and recognized for your efforts.**
-> This response shares their core value in celebration, showing they value recognition and appreciation for their work.
-
-**21. That's so important! Recognition really does make all the hard work feel worthwhile.**
-> This positive response validates their value and emphasizes the importance of acknowledgment in motivation and satisfaction.
-
-**22. I think so too! What's the biggest achievement you're working toward right now?**
-> This agreement confirms their perspective and asks about their current goals and aspirations.
-
-**23. I'm working on learning a new language, and I'm hoping to be conversational by the end of the year.**
-> This response shares a specific learning goal that shows they value personal development and skill acquisition.
-
-**24. That's such an exciting goal! Language learning is such a rewarding journey.**
-> This positive response shows appreciation for their goal and emphasizes the value of language learning.
-
-**25. I think so too! What's your motivation for learning this particular language?**
-> This agreement confirms their perspective and asks about their specific reasons for choosing this language.
-
-**26. I've always been fascinated by the culture and want to travel there someday.**
-> This response shares their cultural interest and travel motivation, showing they value cultural understanding and exploration.
-
-**27. That's such a wonderful motivation! Cultural understanding really does enrich travel experiences.**
-> This positive response validates their motivation and emphasizes the benefits of cultural knowledge for travel.
-
-**28. I completely agree! What's your biggest challenge in learning the language?**
-> This agreement confirms their perspective and asks about the difficulties they face in their learning journey.
-
-**29. I find pronunciation quite challenging, but I'm practicing every day.**
-> This response shares a specific challenge they face and shows their commitment to daily practice.
-
-**30. That's the right approach! Consistent practice really does make all the difference.**
-> This positive response validates their approach and emphasizes the importance of regular practice in language learning.
-
-**31. I think so too! What's your favorite way to practice?**
-> This agreement confirms their perspective and asks about their preferred learning methods.
-
-**32. I like using language learning apps and watching movies with subtitles.**
-> This response shares specific learning methods that show they value both technology and entertainment in their learning approach.
-
-**33. That's a great combination! Entertainment makes learning so much more enjoyable.**
-> This positive response validates their learning approach and emphasizes the benefits of making learning fun.
-
-**34. I think so too! What achievement are you most proud of in your life so far?**
-> This agreement confirms their perspective and asks about their most significant accomplishment.
-
-**35. I'm most proud of overcoming my fear of public speaking and now being able to present confidently.**
-> This response shares a significant personal achievement that shows they value personal growth and overcoming challenges, ending the conversation on an inspiring note about personal development and courage.
+My financial journey continues evolving. **I adjust my strategy as life changes.** Adaptability ensures long-term success. **What's your biggest financial goal?** I'd love to hear your money stories."
 
 ## Bài tập luyện viết
 
 **Bài tập: Chuyển từ tiếng Việt sang tiếng Anh**
 
-> Tôi thích tự thưởng cho bản thân một bữa tối ngon hoặc mua thứ gì đó tôi đã muốn từ lâu để ăn mừng thành tựu. Tôi gần đây đã hoàn thành một dự án thử thách tại nơi làm việc mà tôi đã làm việc trong nhiều tháng. Tôi đã có một chuyến đi cuối tuần dài đến vùng núi để thư giãn và nạp lại năng lượng. Tôi thích có một cuộc tụ tập nhỏ với bạn bè thân thiết và gia đình. Tôi nghĩ điều quan trọng nhất là cảm giác được đánh giá cao và công nhận cho những nỗ lực của bạn. Tôi đang học một ngôn ngữ mới và hy vọng sẽ có thể giao tiếp được vào cuối năm. Tôi luôn bị mê hoặc bởi văn hóa và muốn đi du lịch ở đó một ngày nào đó. Tôi thấy phát âm khá thử thách, nhưng tôi đang luyện tập mỗi ngày. Tôi thích sử dụng các ứng dụng học ngôn ngữ và xem phim với phụ đề. Tôi tự hào nhất về việc vượt qua nỗi sợ nói trước công chúng và giờ đây có thể thuyết trình một cách tự tin!
+> Quản lý tài chính cá nhân là kỹ năng quan trọng giúp tôi đạt được sự độc lập về kinh tế. Tôi bắt đầu mỗi tháng bằng việc lập ngân sách để theo dõi thu nhập và chi tiêu. Tôi luôn dành một phần thu nhập để tiết kiệm và đầu tư cho tương lai. Việc sử dụng thẻ tín dụng một cách thông minh giúp tôi tránh nợ nần và xây dựng lịch sử tín dụng tốt. Tôi thường xuyên xem xét các hóa đơn và đàm phán để giảm chi phí. Đặt mục tiêu tài chính rõ ràng giúp tôi có động lực để đạt được những kế hoạch lớn như mua nhà hay nghỉ hưu sớm.

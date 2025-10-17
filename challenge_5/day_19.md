@@ -1,111 +1,72 @@
-# Day 19 - 33 câu
+# Day 19 - 17 câu
 
 ## Video
-> https://www.youtube.com/watch?v=UlYBHzDJUTQ
+> No video
 
 ## Practice sentences
 
-**1. What's the most challenging decision you've ever had to make?**
-> Use this question to learn about someone's decision-making process and values. It's a great way to understand their priorities and how they handle difficult situations.
+**Environment & Nature: A Story with 17 Useful Phrases**
 
-**2. I had to choose between staying in my comfortable job or taking a risk with a new opportunity.**
-> This response shares a specific decision between security and opportunity, showing they faced a common but significant life choice.
+"Hey everyone! Today I want to discuss environmental issues and our connection to nature. **Protecting the environment is crucial.** Human actions impact ecosystems worldwide.
 
-**3. That sounds like such a difficult decision! What factors did you consider?**
-> This empathetic response shows understanding of the difficulty and asks for details about their decision-making process.
+I start my day with a nature walk. **The sunrise looks magnificent.** Early morning light reveals natural beauty. **Birds are singing melodiously.** Wildlife activity energizes the soul.
 
-**4. I thought about my long-term goals, financial security, and personal growth.**
-> This response shares the specific factors they considered, showing they value both practical and personal development aspects.
+Climate change concerns me deeply. **Global temperatures are rising.** Scientific evidence demands action. **We must reduce carbon emissions.** Collective responsibility drives change.
 
-**5. That's such a thoughtful approach! Those are all really important considerations.**
-> This positive response validates their decision-making process and emphasizes the importance of the factors they considered.
+Recycling reduces waste effectively. **I separate plastics from paper.** Proper sorting conserves resources. **This material is recyclable.** Awareness promotes sustainable habits.
 
-**6. I think so too! It was important to me to make a decision that aligned with my values.**
-> This agreement confirms their perspective and shows they prioritize alignment between their decisions and personal values.
+Renewable energy offers hope. **Solar panels harness sunlight.** Clean alternatives replace fossil fuels. **Wind turbines generate electricity.** Innovation combats climate change.
 
-**7. That's so important! What ultimately helped you make your decision?**
-> This positive response validates their approach and asks about the key factor that influenced their final choice.
+Biodiversity preservation matters. **Endangered species need protection.** Habitat loss threatens wildlife. **This ecosystem is fragile.** Conservation efforts safeguard nature.
 
-**8. I realized that I would regret not taking the opportunity more than I would regret the risk.**
-> This response shares their reasoning process, showing they used regret as a decision-making tool and prioritized opportunity over security.
+Ocean pollution breaks my heart. **Plastic waste harms marine life.** Microplastics enter the food chain. **Beach cleanups make a difference.** Community action creates impact.
 
-**9. That's such a wise way to think about it! Regret can be a powerful motivator.**
-> This positive response validates their reasoning and emphasizes the value of using regret as a decision-making tool.
+Forests provide essential services. **Trees absorb carbon dioxide.** Deforestation accelerates climate change. **I planted a tree last weekend.** Individual actions accumulate.
 
-**10. I think so too! I didn't want to look back and wonder 'what if?'**
-> This agreement confirms their perspective and shows they wanted to avoid future regret and curiosity about missed opportunities.
+Sustainable agriculture feeds populations. **Organic farming preserves soil health.** Chemical-free methods protect ecosystems. **This produce is locally grown.** Supporting local farmers benefits communities.
 
-**11. How did you feel after making the decision?**
-> This question explores their emotional response to their decision and can reveal their satisfaction with their choice.
+Water conservation is critical. **I fix leaky faucets promptly.** Efficient usage preserves resources. **This drought affects water supplies.** Climate change exacerbates shortages.
 
-**12. I felt nervous but excited, and I knew I had made the right choice for me.**
-> This response shares their mixed emotions and shows they felt confident in their decision despite the uncertainty.
+Air quality affects public health. **Pollution causes respiratory problems.** Industrial emissions harm communities. **I use public transportation.** Reduced driving improves air quality.
 
-**13. That's such a healthy response! It's natural to feel both nervous and excited about new opportunities.**
-> This positive response validates their emotional response and acknowledges the normalcy of mixed feelings about significant decisions.
+Environmental education raises awareness. **I teach children about conservation.** Knowledge empowers future generations. **This documentary is eye-opening.** Media influences public opinion.
 
-**14. I think so too! What was the outcome of your decision?**
-> This agreement confirms their perspective and asks about the results of their decision, showing interest in their experience.
+Green technology offers solutions. **Electric vehicles reduce emissions.** Innovation drives sustainability. **This app tracks carbon footprint.** Data informs better choices.
 
-**15. It turned out to be the best decision I ever made! I learned so much and grew tremendously.**
-> This response shares a positive outcome that shows their decision was successful and led to significant personal growth.
+National parks preserve wilderness. **I visited Yellowstone last summer.** Protected areas maintain biodiversity. **The hiking trails are well-maintained.** Responsible tourism supports conservation.
 
-**16. That's wonderful! It's so rewarding when a difficult decision leads to such positive results.**
-> This positive response shows appreciation for their success and emphasizes the satisfaction of making the right choice.
+Wildlife photography captures beauty. **This shot shows animal behavior.** Visual storytelling inspires protection. **The lighting creates drama.** Art raises environmental awareness.
 
-**17. I couldn't agree more! What advice would you give to someone facing a similar decision?**
-> This agreement confirms their perspective and asks for their advice, showing interest in their wisdom and experience.
+Composting reduces landfill waste. **I turn food scraps into soil.** Circular economy principles guide actions. **This compost enriches my garden.** Waste becomes valuable resources.
 
-**18. I'd say to trust your instincts and consider what you'll regret more in the long run.**
-> This response shares practical advice that shows they value intuition and long-term thinking in decision-making.
+Environmental policy influences behavior. **Regulations protect natural resources.** Government action creates frameworks. **This law limits plastic usage.** Legislation drives societal change.
 
-**19. That's excellent advice! Our instincts often know what's right for us.**
-> This positive response validates their advice and emphasizes the value of trusting one's instincts.
+Corporate responsibility matters. **Companies adopt sustainable practices.** Business decisions impact the environment. **This brand uses recycled materials.** Consumer choices influence corporations.
 
-**20. I think so too! What's the most important lesson you learned from this experience?**
-> This agreement confirms their perspective and asks about the key takeaway from their decision-making experience.
+Individual actions create ripple effects. **I bring reusable bags shopping.** Small changes accumulate impact. **This habit saves resources.** Consistency builds sustainable lifestyles.
 
-**21. I learned that sometimes the scariest decisions are the ones that lead to the greatest growth.**
-> This response shares a profound lesson about the relationship between fear, decisions, and personal development.
+Nature therapy improves mental health. **Forest bathing reduces stress.** Natural environments heal the mind. **The tranquility is peaceful.** Connection with nature restores balance.
 
-**22. That's such a powerful lesson! Growth often requires us to step outside our comfort zones.**
-> This positive response validates their lesson and emphasizes the connection between discomfort and personal growth.
+Environmental activism drives change. **I joined a local conservation group.** Grassroots movements influence policy. **This petition gained signatures.** Collective voice creates impact.
 
-**23. I completely agree! What would you do differently if you faced a similar decision again?**
-> This agreement confirms their perspective and asks about their approach to future decisions, showing interest in their learning.
+Climate adaptation becomes necessary. **Coastal communities face rising seas.** Infrastructure must withstand change. **This barrier protects against flooding.** Engineering solutions mitigate risks.
 
-**24. I would probably trust my instincts sooner and spend less time overthinking.**
-> This response shows they learned to be more decisive and trust their intuition, indicating growth in their decision-making process.
+Biodiversity loss threatens stability. **Pollinators support food systems.** Insect decline affects agriculture. **I planted native flowers.** Habitat creation supports wildlife.
 
-**25. That's such a valuable insight! Overthinking can sometimes paralyze us.**
-> This positive response validates their insight and emphasizes the potential negative effects of excessive analysis.
+Sustainable fashion reduces impact. **I choose eco-friendly clothing.** Material choices affect the environment. **This fabric is biodegradable.** Conscious consumption promotes sustainability.
 
-**26. I think so too! Sometimes the best decisions come from listening to your heart.**
-> This agreement confirms their perspective and shows they value emotional intelligence in decision-making.
+The circular economy minimizes waste. **I repair items instead of replacing.** Durability extends product life. **This design allows recycling.** Systems thinking guides sustainability.
 
-**27. Do you think it's possible to make a completely wrong decision?**
-> This question explores their philosophy about decision-making and can reveal their thoughts on failure and learning.
+Future generations deserve protection. **I consider my environmental legacy.** Long-term thinking guides decisions. **This action benefits the planet.** Stewardship ensures sustainability.
 
-**28. I think every decision teaches us something, even if the outcome isn't what we expected.**
-> This response shows a growth mindset about decisions, emphasizing learning and development over success or failure.
+Hope exists for environmental recovery. **Restoration projects succeed.** Human ingenuity solves problems. **This wetland recovered beautifully.** Regeneration inspires optimism.
 
-**29. That's such a wise perspective! Every experience really does contribute to our growth.**
-> This positive response validates their perspective and emphasizes the value of all experiences in personal development.
+Nature connection enriches life. **I find peace in natural settings.** Appreciation motivates protection. **This view takes my breath away.** Beauty inspires conservation.
 
-**30. I think so too! What's the most important thing to remember when making difficult decisions?**
-> This agreement confirms their perspective and asks for their key advice about decision-making.
-
-**31. I think it's important to remember that you can't control everything, but you can control your response.**
-> This response shares a profound insight about decision-making that emphasizes personal agency and acceptance of uncertainty.
-
-**32. That's such a powerful reminder! We really do have more control over our responses than we sometimes realize.**
-> This positive response validates their insight and emphasizes the importance of personal agency in decision-making.
-
-**33. I couldn't agree more! That's the kind of wisdom that comes from experience.**
-> This agreement confirms their perspective and acknowledges the value of experience in developing wisdom, ending the conversation on a thoughtful note about learning from life's challenges.
+My environmental journey continues. **What's your environmental concern?** I'd love to hear your thoughts."
 
 ## Bài tập luyện viết
 
 **Bài tập: Chuyển từ tiếng Việt sang tiếng Anh**
 
-> Tôi đã phải lựa chọn giữa việc ở lại công việc thoải mái của mình hoặc chấp nhận rủi ro với một cơ hội mới. Tôi đã suy nghĩ về các mục tiêu dài hạn, an ninh tài chính và sự phát triển cá nhân. Tôi nhận ra rằng tôi sẽ hối tiếc vì không nắm lấy cơ hội hơn là hối tiếc vì rủi ro. Tôi cảm thấy lo lắng nhưng phấn khích, và tôi biết mình đã đưa ra lựa chọn đúng đắn. Kết quả là quyết định tốt nhất tôi từng đưa ra! Tôi đã học được rằng đôi khi những quyết định đáng sợ nhất là những quyết định dẫn đến sự phát triển lớn nhất. Tôi sẽ tin tưởng vào bản năng của mình sớm hơn và dành ít thời gian suy nghĩ quá mức. Tôi nghĩ mọi quyết định đều dạy chúng ta điều gì đó, ngay cả khi kết quả không như mong đợi. Điều quan trọng nhất cần nhớ là bạn không thể kiểm soát mọi thứ, nhưng bạn có thể kiểm soát phản ứng của mình!
+> Bảo vệ môi trường và kết nối với thiên nhiên là ưu tiên hàng đầu của tôi. Tôi bắt đầu ngày mới bằng việc đi dạo trong công viên để tận hưởng vẻ đẹp tự nhiên và không khí trong lành. Tôi luôn cố gắng giảm thiểu rác thải bằng cách tái chế và sử dụng các sản phẩm thân thiện với môi trường. Việc sử dụng năng lượng tái tạo như năng lượng mặt trời giúp giảm lượng khí thải carbon. Tôi tham gia các hoạt động làm sạch bãi biển và trồng cây để bảo tồn hệ sinh thái. Giáo dục môi trường giúp nâng cao nhận thức cộng đồng về các vấn đề cấp bách như biến đổi khí hậu và ô nhiễm. Tôi tin rằng hành động cá nhân có thể tạo nên sự khác biệt lớn cho hành tinh của chúng ta.

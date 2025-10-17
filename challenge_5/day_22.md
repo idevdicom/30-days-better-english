@@ -1,120 +1,50 @@
-# Day 22 - 36 câu
+# Day 22 - 20 câu
 
 ## Video
-> https://www.youtube.com/watch?v=UlYBHzDJUTQ
+> No video
 
 ## Practice sentences
 
-**1. What's your favorite way to spend time with family?**
-> Use this question to learn about someone's family relationships and bonding activities. It's a great way to understand their values and what brings them joy in family connections.
+**Social Media: A Story with 20 Useful Phrases**
 
-**2. I love cooking together and sharing meals around the dinner table.**
-> This response shares a specific family activity that shows they value both cooking and the social aspect of shared meals.
+"Hey friends! Today I want to discuss social media's impact on our lives. **Social media connects us globally.** Digital platforms facilitate communication and community building.
 
-**3. That sounds absolutely wonderful! Cooking together creates such special memories.**
-> This positive response shows appreciation for their family activity and emphasizes the memory-making aspect of shared cooking.
+I start my day by checking notifications. **I have several likes on my post.** Engagement metrics boost visibility. **This algorithm suggests relevant content.** Personalization tailors experiences.
 
-**4. I think so too! There's something so bonding about preparing food together.**
-> This agreement confirms their perspective and shows they understand the emotional connection created through shared cooking.
+Posting photos shares life moments. **I uploaded pictures from my vacation.** Visual storytelling creates emotional connections. **This filter enhances the image.** Digital tools improve presentation.
 
-**5. What's your favorite family recipe that you've learned to make?**
-> This follow-up question explores their culinary heritage and can reveal their family traditions and cultural background.
+Following influencers provides inspiration. **This lifestyle blogger motivates me.** Content creators influence trends. **I learned this recipe from TikTok.** Short-form video democratizes knowledge.
 
-**6. My grandmother's apple pie recipe is my absolute favorite.**
-> This response shares a specific family recipe that shows they value family culinary traditions and grandmother's influence.
+Social media facilitates event organization. **I created an event page for the party.** Digital invitations reach wide audiences. **Twenty people confirmed attendance.** RSVPs streamline planning.
 
-**7. That sounds delicious! Family recipes are such precious treasures.**
-> This positive response shows appreciation for their family recipe and emphasizes the sentimental value of culinary heritage.
+Online communities offer support. **I joined a parenting group.** Shared experiences build empathy. **This advice helped me tremendously.** Collective wisdom solves problems.
 
-**8. It really is! Every time I make it, I feel connected to my family history.**
-> This response confirms their appreciation and shows they value the emotional connection to family through cooking.
+Hashtag challenges create viral trends. **I participated in the dance challenge.** User-generated content drives engagement. **This trend went viral overnight.** Cultural phenomena spread rapidly.
 
-**9. Do you have any special family traditions around cooking or meals?**
-> This question explores their family customs and can reveal their cultural background and family values.
+Social commerce transforms shopping. **I discovered this brand on Instagram.** Visual discovery influences purchases. **The reviews convinced me to buy.** Social proof guides decisions.
 
-**10. We always cook together on Sundays and everyone has their own special dish to contribute.**
-> This response shares a specific family tradition that shows they value both routine and individual contributions to family meals.
+Live streaming enables real-time interaction. **I watched a live concert online.** Remote access broadens accessibility. **The chat is very active.** Interactive features enhance engagement.
 
-**11. That's such a beautiful tradition! It sounds like everyone gets to share their talents.**
-> This positive response validates their family tradition and emphasizes the value of individual contributions to family activities.
+Social media amplifies important causes. **I shared information about climate change.** Awareness campaigns reach global audiences. **This petition gained thousands of signatures.** Digital activism creates impact.
 
-**12. I think so too! What's your favorite family memory involving food?**
-> This agreement confirms their perspective and asks for a specific memory that shows the emotional significance of family meals.
+Privacy settings protect personal information. **I adjusted my privacy preferences.** Control over data sharing matters. **This post is visible to friends only.** Selective sharing maintains boundaries.
 
-**13. I remember my first time making the apple pie with my grandmother when I was eight.**
-> This response shares a specific childhood memory that shows they value both learning and the emotional connection with family.
+Social media detox improves mental health. **I took a break from scrolling.** Digital fasting restores focus. **My productivity increased significantly.** Mindful usage enhances well-being.
 
-**14. That's such a precious memory! Learning to cook with grandparents is so special.**
-> This positive response validates their memory and emphasizes the significance of intergenerational learning and bonding.
+Influencer marketing shapes consumer behavior. **This sponsored post looks authentic.** Brand partnerships influence perceptions. **I trust this creator's recommendations.** Credibility drives purchasing decisions.
 
-**15. It really was! She was so patient and let me make mistakes without getting frustrated.**
-> This response confirms their appreciation and shows they value patience and supportive teaching in family relationships.
+Social media analytics provide insights. **I checked my engagement metrics.** Data-driven decisions improve strategy. **This post performed exceptionally well.** Performance tracking optimizes content.
 
-**16. That's such a beautiful way to learn! Patience really does make all the difference in teaching.**
-> This positive response validates their experience and emphasizes the importance of patience in educational relationships.
+Cross-platform posting maximizes reach. **I share content across multiple platforms.** Consistent presence builds audience. **My following grew substantially.** Strategic distribution amplifies messages.
 
-**17. I think so too! What other activities do you enjoy doing with your family?**
-> This agreement confirms their perspective and asks for additional family activities they value.
+Social media facilitates professional networking. **I connected with industry leaders.** Digital platforms complement traditional networking. **This LinkedIn message led to an opportunity.** Virtual connections create real opportunities.
 
-**18. We love playing board games and going for walks in the park together.**
-> This response shares specific family activities that show they value both indoor and outdoor family time.
+The future of social media evolves rapidly. **Augmented reality features are emerging.** Innovation enhances user experiences. **This new format is engaging.** Technological advancement drives platform development.
 
-**19. That sounds like such a perfect balance! Board games and nature walks are both wonderful family activities.**
-> This positive response validates their family activities and emphasizes the value of both indoor and outdoor family bonding.
-
-**20. I think so too! What's your favorite board game to play with family?**
-> This agreement confirms their perspective and asks for specific preferences in their family activities.
-
-**21. We love playing Scrabble because it's both fun and educational.**
-> This response shares a specific game preference that shows they value both entertainment and learning in family activities.
-
-**22. That's a great choice! Scrabble really does combine fun with learning.**
-> This positive response validates their game choice and emphasizes the educational benefits of word games.
-
-**23. I think so too! What's the most important thing about family time for you?**
-> This agreement confirms their perspective and asks about their core values in family relationships.
-
-**24. I think it's the feeling of being completely accepted and loved for who you are.**
-> This response shares their core value in family relationships, showing they value unconditional love and acceptance.
-
-**25. That's such a beautiful sentiment! Family really should be our safe haven.**
-> This positive response validates their value and emphasizes the importance of family as a source of emotional security.
-
-**26. I think so too! What's your favorite family holiday or celebration?**
-> This agreement confirms their perspective and asks about their preferred family celebrations.
-
-**27. I love Christmas because everyone comes together and we spend the whole day cooking and eating.**
-> This response shares a specific holiday preference that shows they value both family gathering and culinary traditions.
-
-**28. That sounds absolutely magical! Christmas really does bring families together in such a special way.**
-> This positive response validates their holiday preference and emphasizes the unifying power of Christmas celebrations.
-
-**29. I think so too! What's the most meaningful gift you've ever received from family?**
-> This agreement confirms their perspective and asks about significant family gifts that hold emotional value.
-
-**30. My parents gave me a family photo album for my graduation, and it meant everything to me.**
-> This response shares a specific meaningful gift that shows they value family memories and emotional connections.
-
-**31. That's such a thoughtful gift! Family photos really do capture so many precious moments.**
-> This positive response validates their gift and emphasizes the sentimental value of family photographs.
-
-**32. I think so too! What's your favorite thing about being part of your family?**
-> This agreement confirms their perspective and asks about their appreciation for their family relationships.
-
-**33. I love how we support each other through everything and celebrate each other's successes.**
-> This response shares their appreciation for family support and shows they value both emotional support and shared celebration.
-
-**34. That's such a beautiful family dynamic! Support and celebration really are the foundations of strong families.**
-> This positive response validates their family values and emphasizes the importance of support and celebration in family relationships.
-
-**35. I think so too! What's the most important lesson your family has taught you?**
-> This agreement confirms their perspective and asks about the key values they've learned from their family.
-
-**36. They've taught me that love, patience, and understanding are the most important things in life.**
-> This response shares the fundamental values they've learned from their family, showing they value love, patience, and understanding as core life principles, ending the conversation on a meaningful note about family values and relationships.
+Despite challenges, social media enriches life. **It keeps me connected with loved ones.** Digital relationships supplement physical ones. **What's your favorite social platform?** I'd love to hear your experiences."
 
 ## Bài tập luyện viết
 
 **Bài tập: Chuyển từ tiếng Việt sang tiếng Anh**
 
-> Tôi thích nấu ăn cùng nhau và chia sẻ bữa ăn quanh bàn ăn. Công thức bánh táo của bà ngoại tôi là món yêu thích tuyệt đối của tôi. Mỗi lần làm nó, tôi cảm thấy kết nối với lịch sử gia đình mình. Chúng tôi luôn nấu ăn cùng nhau vào Chủ nhật và mọi người đều có món ăn đặc biệt riêng để đóng góp. Tôi nhớ lần đầu tiên làm bánh táo với bà ngoại khi tôi tám tuổi. Bà rất kiên nhẫn và để tôi mắc lỗi mà không cảm thấy thất vọng. Chúng tôi thích chơi board game và đi dạo trong công viên cùng nhau. Chúng tôi yêu chơi Scrabble vì nó vừa vui vừa giáo dục. Tôi nghĩ điều quan trọng nhất là cảm giác được chấp nhận hoàn toàn và yêu thương vì con người thật của bạn. Tôi yêu cách chúng tôi hỗ trợ nhau qua mọi thứ và ăn mừng thành công của nhau. Họ đã dạy tôi rằng tình yêu, sự kiên nhẫn và hiểu biết là những điều quan trọng nhất trong cuộc sống!
+> Mạng xã hội đã trở thành phần quan trọng trong cuộc sống hàng ngày của tôi. Tôi thường bắt đầu ngày bằng việc kiểm tra các thông báo và cập nhật tin tức từ bạn bè. Việc chia sẻ hình ảnh và câu chuyện giúp tôi duy trì kết nối với mọi người ở khắp nơi. Tôi tham gia các nhóm và cộng đồng trực tuyến để học hỏi và trao đổi kinh nghiệm. Mạng xã hội cũng giúp tôi khám phá các xu hướng mới và tìm kiếm cơ hội nghề nghiệp. Tuy nhiên, tôi cũng chú ý đến việc sử dụng một cách có trách nhiệm để bảo vệ sự riêng tư và sức khỏe tinh thần của mình.

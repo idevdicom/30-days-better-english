@@ -1,78 +1,95 @@
 ---
-alwaysApply: true
+alwaysApply: false
 ---
-
 # 30 Days Better English - Project Rules
 
 ## Project Overview
-This is a 30-day English speaking practice program focused on B1 level common phrases and sentences. The goal is to help users improve their spoken English through daily practice with progressively increasing content.
+Đây là chương trình luyện nói tiếng Anh 30 ngày với các cụm từ và câu thông dụng mức độ B1. Mục tiêu giúp người dùng cải thiện khả năng nói tiếng Anh thông qua việc luyện tập hàng ngày với nội dung tăng dần.
 
 ## Content Structure
 
 ### Daily Progression
-- Day 1: 15 sentences
-- Day 2: 16 sentences  
-- Day 3: 17 sentences
-- ...and so on
-- Day 30: 44 sentences
+**Giai đoạn 1 (Ngày 1-10):**
+- Day 1-10: 15 câu mỗi ngày
 
-Each day adds ONE more sentence than the previous day.
+**Giai đoạn 2 (Ngày 11-20):**
+- Day 11-20: 17 câu mỗi ngày
+
+**Giai đoạn 3 (Ngày 21-30):**
+- Day 21-30: 20 câu mỗi ngày
+
+Các giai đoạn tăng độ khó nhưng điều chỉnh số lượng câu phù hợp để duy trì tính thực tế và khả thi.
 
 ### File Format for Each Day
 
-Each day's file (day_1.md to day_30.md) should follow this exact format:
+Mỗi file ngày (day_1.md đến day_30.md) phải tuân thủ đúng định dạng sau:
 
 ```markdown
 # Day X - Y câu
 
-**1. [English sentence]**
-/[IPA pronunciation]/
-> [Detailed explanation in English about when and how to use this sentence]
+## Video
+> No video
 
-**2. [English sentence]**
-/[IPA pronunciation]/
-> [Detailed explanation in English about when and how to use this sentence]
+## Practice sentences
 
-...
+**[Tên chủ đề: Câu chuyện với Y Useful Phrases]**
+
+"[Mở đầu câu chuyện bằng tiếng Anh]"
+
+"[Nội dung câu chuyện với các câu tiếng Anh được highlight bằng **bold**]"
+
+"[Kết thúc câu chuyện]"
+
+## Bài tập luyện viết
+
+**[Bài tập: Chuyển từ tiếng Việt sang tiếng Anh]**
+
+> [Đoạn văn tiếng Việt để dịch sang tiếng Anh]
 ```
 
 ### Content Requirements
 
-1. **Sentences**: 
-   - Must be at B1 English level
-   - Focus on common, practical phrases used in daily conversation
-   - Should cover various topics: greetings, introductions, work, hobbies, social situations, etc.
-   - Each sentence should be bold formatted
+1. **Video Section**:
+   - Luôn có section "## Video"
+   - Nội dung mặc định: "> No video"
 
-2. **Pronunciation**:
-   - Provide IPA (International Phonetic Alphabet) pronunciation
-   - Place on a separate line immediately after the sentence
-   - Format: /phonetic transcription/
+2. **Practice Sentences**:
+   - Bắt đầu bằng "## Practice sentences"
+   - Tiêu đề dạng: "**[Tên chủ đề: Câu chuyện với Y Useful Phrases]**"
+   - Nội dung là một câu chuyện ngắn gọn tự nhiên
+   - Các câu tiếng Anh cần highlight được đặt trong **bold**
+   - Câu chuyện phải chứa đúng số lượng câu theo giai đoạn:
+     - Ngày 1-10: 15 câu
+     - Ngày 11-20: 17 câu
+     - Ngày 21-30: 20 câu
+   - Các câu phải là B1 level, thực tế và hữu ích cho giao tiếp hàng ngày
 
-3. **Explanation**:
-   - Must be in English only (no Vietnamese translation)
-   - Place inside a quote block (markdown > syntax)
-   - Explain WHEN to use the sentence (context, situation)
-   - Explain WHY it's useful (purpose, tone, formality level)
-   - Keep explanations clear and practical
+3. **Bài tập luyện viết**:
+   - Bắt đầu bằng "## Bài tập luyện viết"
+   - Tiêu đề: "**Bài tập: Chuyển từ tiếng Việt sang tiếng Anh**"
+   - Trong quote block là một đoạn văn tiếng Việt
+   - Người học sẽ dịch đoạn văn này sang tiếng Anh sử dụng các câu đã học
 
-4. **Spacing**:
-   - Add a blank line between each sentence group
-   - This improves readability and makes practice easier
+4. **Ngôn ngữ**:
+   - Phần explanation và câu chuyện: tiếng Anh
+   - Phần bài tập: tiếng Việt để dịch sang tiếng Anh
 
 ### Quality Guidelines
 
-- Sentences should form natural conversations when possible
-- Avoid repetitive structures across different days
-- Progress from basic to more complex structures as days advance
-- Include a mix of questions, statements, and responses
-- Focus on real-world applicability
+- Các câu phải hình thành nên cuộc hội thoại tự nhiên
+- Tránh cấu trúc lặp lại giữa các ngày khác nhau
+- Tiến triển từ đơn giản đến phức tạp hơn theo thời gian
+- Bao gồm hỗn hợp câu hỏi, câu kể và câu trả lời
+- Tập trung vào tính ứng dụng thực tế
+
+- Câu chuyện phải hấp dẫn và dễ hiểu
+- Bài tập dịch phải phù hợp với chủ đề và mức độ ngày đó
 
 ### File Naming
-- Use lowercase with underscores: day_1.md, day_2.md, etc.
-- Store all files in the /plans directory
+- Sử dụng chữ thường với dấu gạch dưới: day_1.md, day_2.md, v.v.
+- Lưu tất cả file trong thư mục /challenge_5/
 
 ## Do NOT Create
-- No README.md files
-- No documentation files unless explicitly requested
-- No summary or overview files
+- Không tạo file README.md
+- Không tạo file tài liệu trừ khi được yêu cầu rõ ràng
+- Không tạo file tóm tắt hoặc tổng quan

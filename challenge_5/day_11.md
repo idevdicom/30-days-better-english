@@ -1,87 +1,32 @@
-# Day 11 - 25 câu
+# Day 11 - 17 câu
 
 ## Video
-> https://www.youtube.com/watch?v=UlYBHzDJUTQ
+> No video
 
 ## Practice sentences
 
-**1. What's your favorite way to stay healthy and fit?**
-> Use this question to learn about someone's health and fitness habits. It's a great conversation starter that can reveal their lifestyle choices and wellness priorities.
+**Family Gathering: A Story with 17 Useful Phrases**
 
-**2. I try to exercise regularly and eat a balanced diet.**
-> This response shares a comprehensive approach to health with two key components. It shows they value both physical activity and nutrition for overall wellness.
+"Hey everyone! Today I want to share my experience at our big family reunion last weekend. **Family gatherings are always special.** They bring everyone together and create lasting memories.
 
-**3. That's a great approach! What kind of exercise do you enjoy most?**
-> This positive response shows appreciation for their health philosophy and asks for specific details about their exercise preferences.
+The reunion was at my grandparents' house in the countryside. **It's been years since we all got together.** I was excited to see cousins I hadn't seen in ages. **The drive took about two hours.** But the beautiful scenery made it worthwhile.
 
-**4. I really like swimming and yoga because they're both relaxing and effective.**
-> This response shares specific exercise preferences with reasoning. It shows they value both physical benefits and mental relaxation.
+When I arrived, the house was already buzzing with activity. **Aunt Mary was in the kitchen preparing food.** The aroma of home-cooked meals filled the air. **I offered to help set the table.** Everyone pitched in to make things run smoothly.
 
-**5. That's wonderful! Swimming and yoga are both excellent for both body and mind.**
-> This enthusiastic response shows appreciation for their exercise choices and acknowledges the holistic benefits of both activities.
+My little niece ran up to greet me. **She's grown so much since last year!** We caught up on all the family news and gossip. **How's school going for you?** The children were playing games in the backyard.
 
-**6. I think so too! They help me stay calm and focused throughout the day.**
-> This agreement confirms their appreciation and explains the mental benefits they experience from their exercise routine.
+Uncle Tom brought out his old photo albums. **These pictures bring back so many memories.** We laughed at the funny hairstyles and fashion choices. **Time flies by so quickly.** Looking at old photos made me nostalgic.
 
-**7. Do you exercise alone or do you prefer working out with others?**
-> This follow-up question explores their social preferences for exercise and can reveal their approach to fitness motivation and social interaction.
+During lunch, we all sat around the big dining table. **This food tastes incredible!** Everyone complimented the cooking. **Could you pass the salad, please?** The conversations flowed naturally between bites.
 
-**8. I like both, but I find that exercising with friends keeps me more motivated.**
-> This response shows they appreciate both solo and social exercise, but explains why social exercise is particularly beneficial for their motivation.
+After eating, we organized some family games. **Who wants to play charades?** Laughter echoed through the house as we acted out clues. **That's hilarious! I can't guess this one.** Games brought out everyone's competitive spirit.
 
-**9. That makes perfect sense! Having workout partners can be so encouraging.**
-> This response validates their preference and emphasizes the motivational benefits of exercising with others.
+My grandmother shared stories from her youth. **Life was so different back then.** We listened attentively to her wisdom. **Those are valuable life lessons.** Her experiences shaped our family values.
 
-**10. It really does! We push each other to do our best and have fun together.**
-> This response confirms the benefits of social exercise and explains how it creates both motivation and enjoyment.
-
-**11. What about your diet? Do you follow any specific eating plan?**
-> This question explores their nutritional approach and can reveal their dietary preferences, restrictions, or health goals.
-
-**12. I try to eat mostly whole foods and avoid processed foods when possible.**
-> This response shares a general dietary philosophy focused on natural, unprocessed foods, showing they prioritize nutritional quality.
-
-**13. That's a smart approach! Whole foods are so much better for your body.**
-> This positive response validates their dietary choices and emphasizes the health benefits of whole foods.
-
-**14. I think so too! I feel so much more energetic when I eat clean.**
-> This agreement shows they experience the benefits of their dietary choices and explains how it affects their daily energy levels.
-
-**15. Do you cook most of your meals at home?**
-> This question explores their cooking habits and can reveal their approach to meal preparation and food control.
-
-**16. Yes, I try to cook at home as much as possible because I can control the ingredients.**
-> This response shows they prioritize home cooking and explains their reasoning about ingredient control and food quality.
-
-**17. That's excellent! Home cooking gives you so much more control over what you eat.**
-> This positive response validates their approach and emphasizes the benefits of home cooking for health and nutrition.
-
-**18. I completely agree! Plus, it's usually more economical and satisfying.**
-> This agreement confirms their perspective and adds additional benefits of home cooking - cost savings and personal satisfaction.
-
-**19. Do you have any favorite healthy recipes you'd like to share?**
-> This question shows interest in their culinary knowledge and creates an opportunity for them to share helpful cooking advice.
-
-**20. I love making vegetable stir-fries because they're quick, healthy, and delicious.**
-> This response shares a specific healthy recipe preference with multiple benefits, showing they value efficiency, nutrition, and taste.
-
-**21. That sounds perfect! Stir-fries are such a great way to get lots of vegetables.**
-> This positive response shows appreciation for their recipe choice and emphasizes the nutritional benefits of vegetable stir-fries.
-
-**22. They really are! I try to use different vegetables each time for variety.**
-> This response confirms the benefits and shows they value variety in their healthy cooking approach.
-
-**23. What's your biggest challenge when it comes to staying healthy?**
-> This question explores their health challenges and can reveal areas where they struggle or need support.
-
-**24. Sometimes I find it hard to stay consistent, especially when I'm busy with work.**
-> This honest response shows they acknowledge the challenge of maintaining healthy habits during busy periods, which is relatable to many people.
-
-**25. That's so understandable! Finding balance is definitely the hardest part.**
-> This empathetic response validates their challenge and acknowledges the difficulty of maintaining health habits during busy times, ending the conversation on a supportive note.
+Throughout the day, I reflected on family bonds. **Blood is thicker than water.** These relationships mean everything to me. **I cherish these moments together.** Family support gets us through tough times."
 
 ## Bài tập luyện viết
 
 **Bài tập: Chuyển từ tiếng Việt sang tiếng Anh**
 
-> Tôi cố gắng tập thể dục thường xuyên và ăn uống cân bằng để giữ gìn sức khỏe. Tôi thích bơi lội và yoga vì chúng vừa thư giãn vừa hiệu quả. Tôi thích tập thể dục với bạn bè vì điều đó giúp tôi có động lực hơn. Về chế độ ăn, tôi cố gắng ăn chủ yếu là thực phẩm nguyên chất và tránh thực phẩm chế biến sẵn khi có thể. Tôi cố gắng nấu ăn ở nhà nhiều nhất có thể vì tôi có thể kiểm soát nguyên liệu. Tôi thích làm các món xào rau vì chúng nhanh, khỏe mạnh và ngon miệng. Đôi khi tôi thấy khó duy trì sự nhất quán, đặc biệt là khi tôi bận rộn với công việc. Tìm kiếm sự cân bằng thực sự là phần khó nhất!
+> Cuối tuần trước đại gia đình chúng tôi đã có một buổi họp mặt đông đủ tại nhà ông bà ngoại ở quê. Đây là lần đầu tiên mọi người gặp nhau sau nhiều năm nên ai cũng rất vui mừng. Chúng tôi đã cùng nhau nấu ăn, chơi trò chơi và chia sẻ những câu chuyện về cuộc sống. Các cháu nhỏ biểu diễn văn nghệ khiến mọi người vô cùng thích thú. Buổi tối chúng tôi ngồi quanh đống lửa trại để trò chuyện và ngắm sao. Tôi cảm thấy biết ơn vì có một gia đình gắn bó và ấm áp như vậy. Chúng tôi hẹn sẽ gặp nhau thường xuyên hơn để duy trì mối quan hệ thân thiết.
