@@ -1,7 +1,7 @@
 # Day 9 - 15 câu
 
 ## Video
-> No video
+> https://www.youtube.com/watch?v=2li5LlC-FFc
 
 ## Practice sentences
 

@@ -1,7 +1,7 @@
 # Day 8 - 15 câu
 
 ## Video
-> No video
+> https://www.youtube.com/watch?v=jhEtBuuYNj4
 
 ## Practice sentences
 

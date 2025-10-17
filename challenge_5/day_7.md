@@ -1,7 +1,7 @@
 # Day 7 - 15 câu
 
 ## Video
-> No video
+> https://www.youtube.com/watch?v=N20jOJDYyYA
 
 ## Practice sentences
 

@@ -1,7 +1,7 @@
 # Day 11 - 17 câu
 
 ## Video
-> No video
+> https://www.youtube.com/watch?v=mExaHbA2RWo
 
 ## Practice sentences
 

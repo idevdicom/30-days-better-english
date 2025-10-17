@@ -1,7 +1,7 @@
 # Day 10 - 15 câu
 
 ## Video
-> No video
+> https://www.youtube.com/watch?v=sBS7GPWbw74
 
 ## Practice sentences
 

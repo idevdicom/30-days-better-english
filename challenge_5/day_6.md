@@ -1,7 +1,7 @@
 # Day 6 - 15 câu
 
 ## Video
-> No video
+> https://www.youtube.com/watch?v=8UMU1rGyvbA
 
 ## Practice sentences
 

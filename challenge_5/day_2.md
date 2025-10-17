@@ -1,7 +1,7 @@
 # Day 2 - 16 câu
 
 ## Video
-> No video
+> https://www.youtube.com/watch?v=CC9SWcNfvCk
 
 ## Practice sentences
 

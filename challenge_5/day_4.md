@@ -1,7 +1,7 @@
 # Day 4 - 15 câu
 
 ## Video
-> No video
+> https://www.youtube.com/watch?v=AphPT2Z10z8
 
 ## Practice sentences
 
